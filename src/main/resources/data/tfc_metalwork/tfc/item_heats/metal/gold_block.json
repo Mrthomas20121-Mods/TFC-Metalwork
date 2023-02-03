@@ -1,0 +1,8 @@
+{
+  "ingredient": {
+    "tag": "forge:storage_blocks/gold"
+  },
+  "heat_capacity": 15,
+  "forging_temperature": 636,
+  "woelding_temperature": 848
+}

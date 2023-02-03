@@ -1,0 +1,8 @@
+{
+  "ingredient": {
+    "tag": "forge:large_gears/tin"
+  },
+  "heat_capacity": 42.857,
+  "forging_temperature": 138,
+  "woelding_temperature": 184
+}

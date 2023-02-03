@@ -1,0 +1,8 @@
+{
+  "ingredient": {
+    "tag": "forge:dusts/copper"
+  },
+  "heat_capacity": 5.714,
+  "forging_temperature": 648,
+  "woelding_temperature": 864
+}

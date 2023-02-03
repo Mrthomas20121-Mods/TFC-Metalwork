@@ -1,0 +1,8 @@
+{
+  "ingredient": {
+    "tag": "forge:plates/mithril"
+  },
+  "heat_capacity": 5.714,
+  "forging_temperature": 564,
+  "woelding_temperature": 752
+}

@@ -1,0 +1,8 @@
+{
+  "parent": "block/slab",
+  "textures": {
+    "bottom": "tfc_metalwork:block/metal/cut/graphite",
+    "top": "tfc_metalwork:block/metal/cut/graphite",
+    "side": "tfc_metalwork:block/metal/cut/graphite"
+  }
+}

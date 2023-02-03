@@ -1,0 +1,8 @@
+{
+  "parent": "block/slab",
+  "textures": {
+    "bottom": "tfc_metalwork:block/metal/ladder/invar",
+    "top": "tfc_metalwork:block/metal/ladder/invar",
+    "side": "tfc_metalwork:block/metal/ladder/invar"
+  }
+}

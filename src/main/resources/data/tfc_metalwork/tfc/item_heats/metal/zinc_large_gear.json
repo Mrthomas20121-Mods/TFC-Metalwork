@@ -1,0 +1,8 @@
+{
+  "ingredient": {
+    "tag": "forge:large_gears/zinc"
+  },
+  "heat_capacity": 28.571,
+  "forging_temperature": 252,
+  "woelding_temperature": 336
+}

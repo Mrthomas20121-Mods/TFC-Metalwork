@@ -1,0 +1,8 @@
+{
+  "ingredient": {
+    "tag": "forge:large_plates/antimony"
+  },
+  "heat_capacity": 16,
+  "forging_temperature": 378,
+  "woelding_temperature": 504
+}

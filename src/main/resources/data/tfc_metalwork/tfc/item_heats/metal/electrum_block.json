@@ -1,0 +1,8 @@
+{
+  "ingredient": {
+    "tag": "forge:storage_blocks/electrum"
+  },
+  "heat_capacity": 18,
+  "forging_temperature": 720,
+  "woelding_temperature": 960
+}

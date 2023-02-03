@@ -1,0 +1,8 @@
+{
+  "ingredient": {
+    "tag": "forge:storage_blocks/lead"
+  },
+  "heat_capacity": 40.909,
+  "forging_temperature": 197,
+  "woelding_temperature": 262
+}

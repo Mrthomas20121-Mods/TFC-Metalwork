@@ -1,0 +1,8 @@
+{
+  "ingredient": {
+    "tag": "forge:storage_blocks/thorium"
+  },
+  "heat_capacity": 30,
+  "forging_temperature": 1050,
+  "woelding_temperature": 1400
+}

@@ -1,0 +1,8 @@
+{
+  "ingredient": {
+    "tag": "tfc_metalwork:cut/lead"
+  },
+  "heat_capacity": 18.182,
+  "forging_temperature": 197,
+  "woelding_temperature": 262
+}

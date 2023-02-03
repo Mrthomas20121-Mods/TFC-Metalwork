@@ -1,0 +1,8 @@
+{
+  "parent": "block/outer_stairs",
+  "textures": {
+    "bottom": "tfc_metalwork:block/metal/ladder/gold",
+    "top": "tfc_metalwork:block/metal/ladder/gold",
+    "side": "tfc_metalwork:block/metal/ladder/gold"
+  }
+}

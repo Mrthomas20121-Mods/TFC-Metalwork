@@ -1,0 +1,8 @@
+{
+  "parent": "block/slab",
+  "textures": {
+    "bottom": "tfc_metalwork:block/metal/cut/alnico",
+    "top": "tfc_metalwork:block/metal/cut/alnico",
+    "side": "tfc_metalwork:block/metal/cut/alnico"
+  }
+}

@@ -1,0 +1,8 @@
+{
+  "ingredient": {
+    "tag": "tfc_metalwork:cut/beryllium_copper"
+  },
+  "heat_capacity": 11.429,
+  "forging_temperature": 900,
+  "woelding_temperature": 1200
+}

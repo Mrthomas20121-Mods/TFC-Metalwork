@@ -1,0 +1,8 @@
+{
+  "parent": "block/stairs",
+  "textures": {
+    "bottom": "tfc_metalwork:block/metal/ladder/boron",
+    "top": "tfc_metalwork:block/metal/ladder/boron",
+    "side": "tfc_metalwork:block/metal/ladder/boron"
+  }
+}

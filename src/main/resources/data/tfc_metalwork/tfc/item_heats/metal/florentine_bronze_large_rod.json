@@ -1,0 +1,8 @@
+{
+  "ingredient": {
+    "tag": "forge:large_rods/florentine_bronze"
+  },
+  "heat_capacity": 5.714,
+  "forging_temperature": 240,
+  "woelding_temperature": 320
+}

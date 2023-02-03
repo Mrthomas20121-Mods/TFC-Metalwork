@@ -1,0 +1,8 @@
+{
+  "parent": "block/inner_stairs",
+  "textures": {
+    "bottom": "tfc_metalwork:block/metal/cut/antimony",
+    "top": "tfc_metalwork:block/metal/cut/antimony",
+    "side": "tfc_metalwork:block/metal/cut/antimony"
+  }
+}

@@ -1,0 +1,8 @@
+{
+  "ingredient": {
+    "tag": "forge:large_rods/tin"
+  },
+  "heat_capacity": 14.286,
+  "forging_temperature": 138,
+  "woelding_temperature": 184
+}

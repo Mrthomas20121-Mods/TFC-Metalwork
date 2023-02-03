@@ -1,0 +1,8 @@
+{
+  "ingredient": {
+    "tag": "forge:storage_blocks/andesite_alloy"
+  },
+  "heat_capacity": 36,
+  "forging_temperature": 312,
+  "woelding_temperature": 416
+}

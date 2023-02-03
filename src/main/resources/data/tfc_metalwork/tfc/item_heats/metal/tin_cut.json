@@ -1,0 +1,8 @@
+{
+  "ingredient": {
+    "tag": "tfc_metalwork:cut/tin"
+  },
+  "heat_capacity": 28.571,
+  "forging_temperature": 138,
+  "woelding_temperature": 184
+}

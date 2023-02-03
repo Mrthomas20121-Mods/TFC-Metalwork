@@ -1,0 +1,8 @@
+{
+  "ingredient": {
+    "tag": "forge:large_gears/aluminum"
+  },
+  "heat_capacity": 20,
+  "forging_temperature": 396,
+  "woelding_temperature": 528
+}

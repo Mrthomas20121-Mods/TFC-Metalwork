@@ -1,0 +1,8 @@
+{
+  "ingredient": {
+    "tag": "forge:storage_blocks/copper"
+  },
+  "heat_capacity": 25.714,
+  "forging_temperature": 648,
+  "woelding_temperature": 864
+}

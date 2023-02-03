@@ -1,0 +1,8 @@
+{
+  "ingredient": {
+    "tag": "forge:large_gears/florentine_bronze"
+  },
+  "heat_capacity": 17.143,
+  "forging_temperature": 240,
+  "woelding_temperature": 320
+}

@@ -1,0 +1,8 @@
+{
+  "ingredient": {
+    "tag": "forge:plates/bismuth"
+  },
+  "heat_capacity": 14.286,
+  "forging_temperature": 162,
+  "woelding_temperature": 216
+}

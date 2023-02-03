@@ -1,0 +1,8 @@
+{
+  "ingredient": {
+    "tag": "forge:large_gears/osmium"
+  },
+  "heat_capacity": 17.143,
+  "forging_temperature": 1815,
+  "woelding_temperature": 2420
+}

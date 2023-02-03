@@ -1,0 +1,8 @@
+{
+  "ingredient": {
+    "tag": "forge:large_gears/silver"
+  },
+  "heat_capacity": 12.5,
+  "forging_temperature": 577,
+  "woelding_temperature": 769
+}

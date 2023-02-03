@@ -1,0 +1,8 @@
+{
+  "ingredient": {
+    "tag": "forge:dusts/gold"
+  },
+  "heat_capacity": 3.333,
+  "forging_temperature": 636,
+  "woelding_temperature": 848
+}

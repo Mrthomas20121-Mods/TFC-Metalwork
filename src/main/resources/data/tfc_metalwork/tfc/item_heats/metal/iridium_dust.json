@@ -1,0 +1,8 @@
+{
+  "ingredient": {
+    "tag": "forge:dusts/iridium"
+  },
+  "heat_capacity": 5.714,
+  "forging_temperature": 1494,
+  "woelding_temperature": 1992
+}

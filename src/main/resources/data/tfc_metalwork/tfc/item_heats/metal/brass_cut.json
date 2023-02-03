@@ -1,0 +1,8 @@
+{
+  "ingredient": {
+    "tag": "tfc_metalwork:cut/brass"
+  },
+  "heat_capacity": 11.429,
+  "forging_temperature": 558,
+  "woelding_temperature": 744
+}

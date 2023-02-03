@@ -1,0 +1,8 @@
+{
+  "parent": "block/stairs",
+  "textures": {
+    "bottom": "tfc_metalwork:block/metal/cut/cobalt",
+    "top": "tfc_metalwork:block/metal/cut/cobalt",
+    "side": "tfc_metalwork:block/metal/cut/cobalt"
+  }
+}

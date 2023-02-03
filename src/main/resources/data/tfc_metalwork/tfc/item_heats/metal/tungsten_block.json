@@ -1,0 +1,8 @@
+{
+  "ingredient": {
+    "tag": "forge:storage_blocks/tungsten"
+  },
+  "heat_capacity": 45,
+  "forging_temperature": 2040,
+  "woelding_temperature": 2720
+}

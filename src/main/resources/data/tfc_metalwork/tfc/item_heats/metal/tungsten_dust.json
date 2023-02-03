@@ -1,0 +1,8 @@
+{
+  "ingredient": {
+    "tag": "forge:dusts/tungsten"
+  },
+  "heat_capacity": 10,
+  "forging_temperature": 2040,
+  "woelding_temperature": 2720
+}

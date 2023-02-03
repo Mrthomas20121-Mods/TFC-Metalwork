@@ -1,0 +1,8 @@
+{
+  "ingredient": {
+    "tag": "forge:dusts/osmium"
+  },
+  "heat_capacity": 5.714,
+  "forging_temperature": 1815,
+  "woelding_temperature": 2420
+}

@@ -1,0 +1,8 @@
+{
+  "ingredient": {
+    "tag": "tfc_metalwork:cut/gold"
+  },
+  "heat_capacity": 6.667,
+  "forging_temperature": 636,
+  "woelding_temperature": 848
+}

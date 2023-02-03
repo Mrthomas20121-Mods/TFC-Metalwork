@@ -1,0 +1,8 @@
+{
+  "ingredient": {
+    "tag": "tfc_metalwork:cut/andesite_alloy"
+  },
+  "heat_capacity": 16,
+  "forging_temperature": 312,
+  "woelding_temperature": 416
+}

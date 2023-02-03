@@ -1,0 +1,8 @@
+{
+  "ingredient": {
+    "tag": "forge:gears/brass"
+  },
+  "heat_capacity": 5.714,
+  "forging_temperature": 558,
+  "woelding_temperature": 744
+}

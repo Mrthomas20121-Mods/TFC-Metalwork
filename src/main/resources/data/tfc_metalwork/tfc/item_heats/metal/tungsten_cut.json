@@ -1,0 +1,8 @@
+{
+  "ingredient": {
+    "tag": "tfc_metalwork:cut/tungsten"
+  },
+  "heat_capacity": 20,
+  "forging_temperature": 2040,
+  "woelding_temperature": 2720
+}

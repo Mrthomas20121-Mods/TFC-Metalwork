@@ -1,0 +1,8 @@
+{
+  "ingredient": {
+    "tag": "tfc_metalwork:cut/solder"
+  },
+  "heat_capacity": 11.429,
+  "forging_temperature": 240,
+  "woelding_temperature": 320
+}

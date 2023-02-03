@@ -1,0 +1,8 @@
+{
+  "ingredient": {
+    "tag": "forge:large_gears/copper"
+  },
+  "heat_capacity": 17.143,
+  "forging_temperature": 648,
+  "woelding_temperature": 864
+}

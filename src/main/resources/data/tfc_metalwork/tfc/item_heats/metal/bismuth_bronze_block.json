@@ -1,0 +1,8 @@
+{
+  "ingredient": {
+    "tag": "forge:storage_blocks/bismuth_bronze"
+  },
+  "heat_capacity": 25.714,
+  "forging_temperature": 591,
+  "woelding_temperature": 788
+}

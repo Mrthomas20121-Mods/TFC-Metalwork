@@ -1,0 +1,8 @@
+{
+  "ingredient": {
+    "tag": "forge:large_gears/graphite"
+  },
+  "heat_capacity": 17.143,
+  "forging_temperature": 300,
+  "woelding_temperature": 400
+}

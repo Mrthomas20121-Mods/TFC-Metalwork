@@ -1,0 +1,8 @@
+{
+  "parent": "block/inner_stairs",
+  "textures": {
+    "bottom": "tfc_metalwork:block/metal/ladder/platinum",
+    "top": "tfc_metalwork:block/metal/ladder/platinum",
+    "side": "tfc_metalwork:block/metal/ladder/platinum"
+  }
+}

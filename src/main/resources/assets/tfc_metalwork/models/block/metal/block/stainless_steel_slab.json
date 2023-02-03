@@ -1,0 +1,8 @@
+{
+  "parent": "block/slab",
+  "textures": {
+    "bottom": "tfc_metalwork:block/metal/block/stainless_steel",
+    "top": "tfc_metalwork:block/metal/block/stainless_steel",
+    "side": "tfc_metalwork:block/metal/block/stainless_steel"
+  }
+}

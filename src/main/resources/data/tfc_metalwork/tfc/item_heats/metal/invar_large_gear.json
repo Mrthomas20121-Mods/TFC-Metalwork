@@ -1,0 +1,8 @@
+{
+  "ingredient": {
+    "tag": "forge:large_gears/invar"
+  },
+  "heat_capacity": 17.143,
+  "forging_temperature": 870,
+  "woelding_temperature": 1160
+}

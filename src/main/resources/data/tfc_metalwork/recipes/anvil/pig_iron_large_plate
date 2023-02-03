@@ -1,0 +1,15 @@
+{
+  "type": "tfc:anvil",
+  "input": {},
+  "result": {
+    "item": "tfc_metalwork:metal/large_plate/pig_iron",
+    "count": 2
+  },
+  "tier": 3,
+  "rules": [
+    "hit_any",
+    "draw_any",
+    "bend_last"
+  ],
+  "apply_forging_bonus": false
+}

@@ -1,0 +1,8 @@
+{
+  "ingredient": {
+    "tag": "forge:large_rods/beryllium"
+  },
+  "heat_capacity": 5.714,
+  "forging_temperature": 720,
+  "woelding_temperature": 960
+}

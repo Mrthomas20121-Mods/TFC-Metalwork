@@ -1,0 +1,8 @@
+{
+  "ingredient": {
+    "tag": "forge:dusts/electrum"
+  },
+  "heat_capacity": 4,
+  "forging_temperature": 720,
+  "woelding_temperature": 960
+}

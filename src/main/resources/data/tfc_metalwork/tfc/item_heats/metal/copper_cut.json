@@ -1,0 +1,8 @@
+{
+  "ingredient": {
+    "tag": "tfc_metalwork:cut/copper"
+  },
+  "heat_capacity": 11.429,
+  "forging_temperature": 648,
+  "woelding_temperature": 864
+}

@@ -1,0 +1,8 @@
+{
+  "ingredient": {
+    "tag": "forge:storage_blocks/steel"
+  },
+  "heat_capacity": 25.714,
+  "forging_temperature": 924,
+  "woelding_temperature": 1232
+}

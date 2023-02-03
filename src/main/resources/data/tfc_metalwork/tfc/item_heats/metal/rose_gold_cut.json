@@ -1,0 +1,8 @@
+{
+  "ingredient": {
+    "tag": "tfc_metalwork:cut/rose_gold"
+  },
+  "heat_capacity": 11.429,
+  "forging_temperature": 576,
+  "woelding_temperature": 768
+}

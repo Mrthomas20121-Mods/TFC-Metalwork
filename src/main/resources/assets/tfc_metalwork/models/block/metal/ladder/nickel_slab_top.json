@@ -1,0 +1,8 @@
+{
+  "parent": "block/slab_top",
+  "textures": {
+    "bottom": "tfc_metalwork:block/metal/ladder/nickel",
+    "top": "tfc_metalwork:block/metal/ladder/nickel",
+    "side": "tfc_metalwork:block/metal/ladder/nickel"
+  }
+}

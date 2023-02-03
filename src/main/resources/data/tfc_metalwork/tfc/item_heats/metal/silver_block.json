@@ -1,0 +1,8 @@
+{
+  "ingredient": {
+    "tag": "forge:storage_blocks/silver"
+  },
+  "heat_capacity": 18.75,
+  "forging_temperature": 577,
+  "woelding_temperature": 769
+}
