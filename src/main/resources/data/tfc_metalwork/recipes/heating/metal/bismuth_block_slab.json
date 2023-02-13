@@ -1,0 +1,12 @@
+{
+  "type": "tfc:heating",
+  "ingredient": {
+    "item": "tfc_metalwork/metal/block/bismuth_slab"
+  },
+  "result_fluid": {
+    "fluid": "tfc:metal/bismuth",
+    "amount": 400
+  },
+  "temperature": 270,
+  "use_durability": false
+}

@@ -2,7 +2,7 @@
   "ingredient": {
     "tag": "forge:storage_blocks/aluminum"
   },
-  "heat_capacity": 30,
+  "heat_capacity": 13.333,
   "forging_temperature": 396,
   "woelding_temperature": 528
 }

@@ -1,0 +1,12 @@
+{
+  "type": "tfc:heating",
+  "ingredient": {
+    "tag": "forge:large_gears/compressed_iron"
+  },
+  "result_fluid": {
+    "fluid": "tfc_metallum:metal/compressed_iron",
+    "amount": 800
+  },
+  "temperature": 1535,
+  "use_durability": false
+}

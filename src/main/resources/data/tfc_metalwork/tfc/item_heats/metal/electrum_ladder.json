@@ -2,7 +2,7 @@
   "ingredient": {
     "tag": "tfc_metalwork:metal_ladders/electrum"
   },
-  "heat_capacity": 8,
+  "heat_capacity": 14,
   "forging_temperature": 720,
   "woelding_temperature": 960
 }

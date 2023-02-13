@@ -1,6 +1,0 @@
-{
-  "parent": "block/template_wall_side",
-  "textures": {
-    "wall": "tfc_metalwork:block/metal/ladder/zinc"
-  }
-}

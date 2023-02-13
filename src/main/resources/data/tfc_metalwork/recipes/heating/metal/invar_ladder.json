@@ -1,0 +1,12 @@
+{
+  "type": "tfc:heating",
+  "ingredient": {
+    "tag": "tfc_metalwork:metal_ladders/invar"
+  },
+  "result_fluid": {
+    "fluid": "tfc_metallum:metal/invar",
+    "amount": 700
+  },
+  "temperature": 1450,
+  "use_durability": false
+}

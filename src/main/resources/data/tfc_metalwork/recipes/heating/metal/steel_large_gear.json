@@ -1,0 +1,12 @@
+{
+  "type": "tfc:heating",
+  "ingredient": {
+    "tag": "forge:large_gears/steel"
+  },
+  "result_fluid": {
+    "fluid": "tfc:metal/steel",
+    "amount": 800
+  },
+  "temperature": 1540,
+  "use_durability": false
+}

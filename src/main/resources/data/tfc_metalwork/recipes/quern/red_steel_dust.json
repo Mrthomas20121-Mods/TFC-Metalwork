@@ -1,0 +1,9 @@
+{
+  "type": "tfc:quern",
+  "ingredient": {
+    "item": "tfc:metal/ingot/red_steel"
+  },
+  "result": {
+    "item": "tfc_metalwork:metal/dust/red_steel"
+  }
+}

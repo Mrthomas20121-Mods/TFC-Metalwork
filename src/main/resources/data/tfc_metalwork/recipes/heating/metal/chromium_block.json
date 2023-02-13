@@ -1,0 +1,12 @@
+{
+  "type": "tfc:heating",
+  "ingredient": {
+    "tag": "forge:storage_blocks/chromium"
+  },
+  "result_fluid": {
+    "fluid": "firmalife:metal/chromium",
+    "amount": 400
+  },
+  "temperature": 1250,
+  "use_durability": false
+}

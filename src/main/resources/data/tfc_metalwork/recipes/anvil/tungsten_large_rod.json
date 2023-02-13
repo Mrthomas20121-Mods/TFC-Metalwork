@@ -1,0 +1,22 @@
+{
+  "type": "tfc:anvil",
+  "input": {
+    "item": "tfc_metallum:metal/double_ingot/tungsten"
+  },
+  "result": {
+    "item": "tfc_metalwork:metal/large_rod/tungsten"
+  },
+  "tier": 6,
+  "rules": [
+    "bend_last",
+    "draw_second_last",
+    "draw_third_last"
+  ],
+  "apply_forging_bonus": false,
+  "conditions": [
+    {
+      "type": "forge:mod_loaded",
+      "modid": "tfc_metallum"
+    }
+  ]
+}

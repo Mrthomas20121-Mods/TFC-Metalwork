@@ -1,0 +1,12 @@
+{
+  "type": "tfc:heating",
+  "ingredient": {
+    "item": "tfc_metalwork/metal/ladder/tin_slab"
+  },
+  "result_fluid": {
+    "fluid": "tfc:metal/tin",
+    "amount": 700
+  },
+  "temperature": 230,
+  "use_durability": false
+}

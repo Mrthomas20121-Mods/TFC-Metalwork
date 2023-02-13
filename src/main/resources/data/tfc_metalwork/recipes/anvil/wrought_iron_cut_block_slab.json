@@ -1,0 +1,17 @@
+{
+  "type": "tfc:anvil",
+  "input": {
+    "item": "tfc_metalwork:metal/cut/wrought_iron"
+  },
+  "result": {
+    "item": "tfc_metalwork:metal/cut/wrought_iron_slab",
+    "count": 2
+  },
+  "tier": 3,
+  "rules": [
+    "bend_last",
+    "draw_any",
+    "draw_any"
+  ],
+  "apply_forging_bonus": false
+}

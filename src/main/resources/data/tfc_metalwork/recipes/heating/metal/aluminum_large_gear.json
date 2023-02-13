@@ -1,0 +1,12 @@
+{
+  "type": "tfc:heating",
+  "ingredient": {
+    "tag": "forge:large_gears/aluminum"
+  },
+  "result_fluid": {
+    "fluid": "tfc_metallum:metal/aluminum",
+    "amount": 800
+  },
+  "temperature": 660,
+  "use_durability": false
+}

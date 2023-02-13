@@ -1,0 +1,12 @@
+{
+  "type": "tfc:heating",
+  "ingredient": {
+    "tag": "forge:dusts/zinc"
+  },
+  "result_fluid": {
+    "fluid": "tfc:metal/zinc",
+    "amount": 100
+  },
+  "temperature": 420,
+  "use_durability": false
+}

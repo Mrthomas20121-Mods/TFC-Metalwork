@@ -1,0 +1,8 @@
+{
+  "ingredient": {
+    "item": "tfc_metalwork:tfc_metalwork/metal/block/antimony_wall"
+  },
+  "heat_capacity": 16,
+  "forging_temperature": 378,
+  "woelding_temperature": 504
+}

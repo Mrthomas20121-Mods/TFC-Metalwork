@@ -1,0 +1,12 @@
+{
+  "type": "tfc:chisel",
+  "ingredient": "tfc_metalwork:metal/block/pewter_stairs",
+  "result": "tfc_metalwork:metal/cut/pewter_stairs",
+  "mode": "smooth",
+  "conditions": [
+    {
+      "type": "forge:mod_loaded",
+      "modid": "tfc_metallum"
+    }
+  ]
+}

@@ -1,0 +1,16 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "X   X",
+    "XXX",
+    "X   X"
+  ],
+  "key": {
+    "x": {
+      "item": "firmalife:metal/rod/stainless_steel"
+    }
+  },
+  "result": {
+    "item": "tfc_metalwork:metal/ladder/stainless_steel"
+  }
+}

@@ -1,0 +1,12 @@
+{
+  "type": "tfc:heating",
+  "ingredient": {
+    "tag": "forge:large_plates/silver"
+  },
+  "result_fluid": {
+    "fluid": "tfc:metal/silver",
+    "amount": 400
+  },
+  "temperature": 961,
+  "use_durability": false
+}

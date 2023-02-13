@@ -1,0 +1,12 @@
+{
+  "type": "tfc:heating",
+  "ingredient": {
+    "tag": "tfc_metalwork:cut/graphite"
+  },
+  "result_fluid": {
+    "fluid": "tfc_metallum:metal/graphite",
+    "amount": 400
+  },
+  "temperature": 500,
+  "use_durability": false
+}

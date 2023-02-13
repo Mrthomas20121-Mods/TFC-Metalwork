@@ -2,7 +2,7 @@
   "ingredient": {
     "tag": "forge:storage_blocks/bismuth"
   },
-  "heat_capacity": 64.286,
+  "heat_capacity": 28.571,
   "forging_temperature": 162,
   "woelding_temperature": 216
 }

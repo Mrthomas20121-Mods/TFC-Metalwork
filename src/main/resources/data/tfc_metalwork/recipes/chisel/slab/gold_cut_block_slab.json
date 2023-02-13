@@ -1,0 +1,9 @@
+{
+  "type": "tfc:chisel",
+  "ingredient": "tfc_metalwork:metal/cut/gold",
+  "result": "tfc_metalwork:metal/cut/gold_slab",
+  "mode": "slab",
+  "extra_drop": {
+    "item": "tfc_metalwork:metal/cut/gold_slab"
+  }
+}

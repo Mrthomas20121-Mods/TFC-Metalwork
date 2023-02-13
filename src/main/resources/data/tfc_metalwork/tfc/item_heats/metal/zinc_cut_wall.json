@@ -1,0 +1,8 @@
+{
+  "ingredient": {
+    "item": "tfc_metalwork:tfc_metalwork/metal/cut/zinc_wall"
+  },
+  "heat_capacity": 19.048,
+  "forging_temperature": 252,
+  "woelding_temperature": 336
+}

@@ -1,0 +1,12 @@
+{
+  "type": "tfc:heating",
+  "ingredient": {
+    "tag": "tfc_metalwork:metal_ladders/silver"
+  },
+  "result_fluid": {
+    "fluid": "tfc:metal/silver",
+    "amount": 700
+  },
+  "temperature": 961,
+  "use_durability": false
+}

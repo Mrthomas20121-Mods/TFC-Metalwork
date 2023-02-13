@@ -1,0 +1,12 @@
+{
+  "type": "tfc:heating",
+  "ingredient": {
+    "tag": "forge:gears/tin"
+  },
+  "result_fluid": {
+    "fluid": "tfc:metal/tin",
+    "amount": 400
+  },
+  "temperature": 230,
+  "use_durability": false
+}

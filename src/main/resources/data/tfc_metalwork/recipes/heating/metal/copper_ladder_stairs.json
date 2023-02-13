@@ -1,0 +1,12 @@
+{
+  "type": "tfc:heating",
+  "ingredient": {
+    "item": "tfc_metalwork/metal/ladder/copper_stairs"
+  },
+  "result_fluid": {
+    "fluid": "tfc:metal/copper",
+    "amount": 700
+  },
+  "temperature": 1080,
+  "use_durability": false
+}

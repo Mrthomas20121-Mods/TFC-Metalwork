@@ -1,0 +1,16 @@
+{
+  "type": "tfc:anvil",
+  "input": {
+    "item": "tfc:metal/double_sheet/sterling_silver"
+  },
+  "result": {
+    "item": "tfc_metalwork:metal/block/sterling_silver"
+  },
+  "tier": 1,
+  "rules": [
+    "bend_last",
+    "hit_any",
+    "bend_any"
+  ],
+  "apply_forging_bonus": false
+}

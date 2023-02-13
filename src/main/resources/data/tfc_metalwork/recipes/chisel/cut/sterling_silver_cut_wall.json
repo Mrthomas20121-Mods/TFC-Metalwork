@@ -1,0 +1,6 @@
+{
+  "type": "tfc:chisel",
+  "ingredient": "tfc_metalwork:metal/block/sterling_silver_wall",
+  "result": "tfc_metalwork:metal/cut/sterling_silver_wall",
+  "mode": "smooth"
+}

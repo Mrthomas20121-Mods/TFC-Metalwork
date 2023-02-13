@@ -1,0 +1,9 @@
+{
+  "type": "tfc:chisel",
+  "ingredient": "tfc_metalwork:metal/cut/sterling_silver",
+  "result": "tfc_metalwork:metal/cut/sterling_silver_slab",
+  "mode": "slab",
+  "extra_drop": {
+    "item": "tfc_metalwork:metal/cut/sterling_silver_slab"
+  }
+}

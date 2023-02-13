@@ -1,0 +1,8 @@
+{
+  "ingredient": {
+    "item": "tfc_metalwork:tfc_metalwork/metal/block/gold_slab"
+  },
+  "heat_capacity": 6.667,
+  "forging_temperature": 636,
+  "woelding_temperature": 848
+}

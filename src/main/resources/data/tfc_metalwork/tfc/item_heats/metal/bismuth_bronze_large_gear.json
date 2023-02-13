@@ -2,7 +2,7 @@
   "ingredient": {
     "tag": "forge:large_gears/bismuth_bronze"
   },
-  "heat_capacity": 17.143,
+  "heat_capacity": 22.857,
   "forging_temperature": 591,
   "woelding_temperature": 788
 }

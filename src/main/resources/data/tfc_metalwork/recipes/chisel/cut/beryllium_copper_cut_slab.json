@@ -1,0 +1,12 @@
+{
+  "type": "tfc:chisel",
+  "ingredient": "tfc_metalwork:metal/block/beryllium_copper_slab",
+  "result": "tfc_metalwork:metal/cut/beryllium_copper_slab",
+  "mode": "smooth",
+  "conditions": [
+    {
+      "type": "forge:mod_loaded",
+      "modid": "tfc_metallum"
+    }
+  ]
+}

@@ -1,0 +1,12 @@
+{
+  "type": "tfc:heating",
+  "ingredient": {
+    "tag": "tfc_metalwork:metal_ladders/mithril"
+  },
+  "result_fluid": {
+    "fluid": "tfc_metallum:metal/mithril",
+    "amount": 700
+  },
+  "temperature": 940,
+  "use_durability": false
+}

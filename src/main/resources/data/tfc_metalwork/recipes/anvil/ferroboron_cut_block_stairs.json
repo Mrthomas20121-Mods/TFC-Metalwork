@@ -1,0 +1,22 @@
+{
+  "type": "tfc:anvil",
+  "input": {
+    "item": "tfc_metalwork:metal/cut/ferroboron"
+  },
+  "result": {
+    "item": "tfc_metalwork:metal/cut/ferroboron_stairs"
+  },
+  "tier": 6,
+  "rules": [
+    "hit_not_last",
+    "draw_any",
+    "draw_any"
+  ],
+  "apply_forging_bonus": false,
+  "conditions": [
+    {
+      "type": "forge:mod_loaded",
+      "modid": "tfc_metallum"
+    }
+  ]
+}

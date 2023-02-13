@@ -1,0 +1,12 @@
+{
+  "type": "tfc:heating",
+  "ingredient": {
+    "tag": "forge:gears/osmium"
+  },
+  "result_fluid": {
+    "fluid": "tfc_metallum:metal/osmium",
+    "amount": 400
+  },
+  "temperature": 3025,
+  "use_durability": false
+}

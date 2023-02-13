@@ -1,0 +1,12 @@
+{
+  "type": "tfc:heating",
+  "ingredient": {
+    "tag": "tfc_metalwork:metal_ladders/antimony"
+  },
+  "result_fluid": {
+    "fluid": "tfc_metallum:metal/antimony",
+    "amount": 700
+  },
+  "temperature": 630,
+  "use_durability": false
+}

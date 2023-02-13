@@ -1,0 +1,8 @@
+{
+  "ingredient": {
+    "item": "tfc_metalwork:tfc_metalwork/metal/block/solder_stairs"
+  },
+  "heat_capacity": 11.429,
+  "forging_temperature": 240,
+  "woelding_temperature": 320
+}

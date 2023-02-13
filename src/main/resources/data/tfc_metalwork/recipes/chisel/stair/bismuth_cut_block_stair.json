@@ -1,0 +1,6 @@
+{
+  "type": "tfc:chisel",
+  "ingredient": "tfc_metalwork:metal/cut/bismuth",
+  "result": "tfc_metalwork:metal/cut/bismuth_stairs",
+  "mode": "stair"
+}

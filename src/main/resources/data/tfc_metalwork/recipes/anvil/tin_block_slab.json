@@ -1,0 +1,17 @@
+{
+  "type": "tfc:anvil",
+  "input": {
+    "item": "tfc_metalwork:metal/block/tin"
+  },
+  "result": {
+    "item": "tfc_metalwork:metal/block/tin_slab",
+    "count": 2
+  },
+  "tier": 1,
+  "rules": [
+    "bend_last",
+    "draw_any",
+    "draw_any"
+  ],
+  "apply_forging_bonus": false
+}

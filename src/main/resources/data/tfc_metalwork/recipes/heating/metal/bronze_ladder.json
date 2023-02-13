@@ -1,0 +1,12 @@
+{
+  "type": "tfc:heating",
+  "ingredient": {
+    "tag": "tfc_metalwork:metal_ladders/bronze"
+  },
+  "result_fluid": {
+    "fluid": "tfc:metal/bronze",
+    "amount": 700
+  },
+  "temperature": 950,
+  "use_durability": false
+}

@@ -1,0 +1,6 @@
+{
+  "type": "tfc:chisel",
+  "ingredient": "tfc_metalwork:metal/block/black_steel",
+  "result": "tfc_metalwork:metal/block/black_steel_stairs",
+  "mode": "stair"
+}

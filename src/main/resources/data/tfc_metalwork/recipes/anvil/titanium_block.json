@@ -1,0 +1,22 @@
+{
+  "type": "tfc:anvil",
+  "input": {
+    "item": "tfc_metallum:metal/double_sheet/titanium"
+  },
+  "result": {
+    "item": "tfc_metalwork:metal/block/titanium"
+  },
+  "tier": 6,
+  "rules": [
+    "bend_last",
+    "hit_any",
+    "bend_any"
+  ],
+  "apply_forging_bonus": false,
+  "conditions": [
+    {
+      "type": "forge:mod_loaded",
+      "modid": "tfc_metallum"
+    }
+  ]
+}

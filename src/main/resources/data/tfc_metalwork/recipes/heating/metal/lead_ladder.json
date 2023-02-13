@@ -1,0 +1,12 @@
+{
+  "type": "tfc:heating",
+  "ingredient": {
+    "tag": "tfc_metalwork:metal_ladders/lead"
+  },
+  "result_fluid": {
+    "fluid": "tfc_metallum:metal/lead",
+    "amount": 700
+  },
+  "temperature": 328,
+  "use_durability": false
+}

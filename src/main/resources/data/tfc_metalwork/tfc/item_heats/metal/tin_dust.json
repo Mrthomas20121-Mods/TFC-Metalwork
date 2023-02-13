@@ -2,7 +2,7 @@
   "ingredient": {
     "tag": "forge:dusts/tin"
   },
-  "heat_capacity": 14.286,
+  "heat_capacity": 7.143,
   "forging_temperature": 138,
   "woelding_temperature": 184
 }

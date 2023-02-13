@@ -2,7 +2,7 @@
   "ingredient": {
     "tag": "forge:gears/rose_gold"
   },
-  "heat_capacity": 5.714,
+  "heat_capacity": 11.429,
   "forging_temperature": 576,
   "woelding_temperature": 768
 }

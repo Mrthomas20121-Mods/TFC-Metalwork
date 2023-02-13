@@ -1,0 +1,8 @@
+{
+  "ingredient": {
+    "item": "tfc_metalwork:tfc_metalwork/metal/cut/aluminum_slab"
+  },
+  "heat_capacity": 13.333,
+  "forging_temperature": 396,
+  "woelding_temperature": 528
+}

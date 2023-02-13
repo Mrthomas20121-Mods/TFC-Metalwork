@@ -1,0 +1,16 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "X   X",
+    "XXX",
+    "X   X"
+  ],
+  "key": {
+    "x": {
+      "item": "tfc_metallum:metal/rod/signalum"
+    }
+  },
+  "result": {
+    "item": "tfc_metalwork:metal/ladder/signalum"
+  }
+}

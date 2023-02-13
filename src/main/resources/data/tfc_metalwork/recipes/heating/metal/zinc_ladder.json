@@ -1,0 +1,12 @@
+{
+  "type": "tfc:heating",
+  "ingredient": {
+    "tag": "tfc_metalwork:metal_ladders/zinc"
+  },
+  "result_fluid": {
+    "fluid": "tfc:metal/zinc",
+    "amount": 700
+  },
+  "temperature": 420,
+  "use_durability": false
+}

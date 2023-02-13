@@ -1,0 +1,22 @@
+{
+  "type": "tfc:anvil",
+  "input": {
+    "item": "tfc_metalwork:metal/large_rod/refined_obsidian"
+  },
+  "result": {
+    "item": "tfc_metalwork:metal/ladder/refined_obsidian"
+  },
+  "tier": 4,
+  "rules": [
+    "bend_last",
+    "bend_second_last",
+    "hit_any"
+  ],
+  "apply_forging_bonus": false,
+  "conditions": [
+    {
+      "type": "forge:mod_loaded",
+      "modid": "tfc_metallum"
+    }
+  ]
+}

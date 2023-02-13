@@ -1,0 +1,12 @@
+{
+  "type": "tfc:heating",
+  "ingredient": {
+    "item": "tfc_metalwork/metal/ladder/graphite_wall"
+  },
+  "result_fluid": {
+    "fluid": "tfc_metallum:metal/graphite",
+    "amount": 700
+  },
+  "temperature": 500,
+  "use_durability": false
+}

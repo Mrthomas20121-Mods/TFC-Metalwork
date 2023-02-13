@@ -1,0 +1,12 @@
+{
+  "type": "tfc:heating",
+  "ingredient": {
+    "tag": "forge:large_rods/tin"
+  },
+  "result_fluid": {
+    "fluid": "tfc:metal/tin",
+    "amount": 200
+  },
+  "temperature": 230,
+  "use_durability": false
+}

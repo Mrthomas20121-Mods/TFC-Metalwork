@@ -1,0 +1,12 @@
+{
+  "type": "tfc:heating",
+  "ingredient": {
+    "item": "tfc_metalwork/metal/cut/tin_stairs"
+  },
+  "result_fluid": {
+    "fluid": "tfc:metal/tin",
+    "amount": 400
+  },
+  "temperature": 230,
+  "use_durability": false
+}

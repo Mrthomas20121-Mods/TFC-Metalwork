@@ -2,7 +2,7 @@
   "ingredient": {
     "tag": "forge:storage_blocks/beryllium"
   },
-  "heat_capacity": 25.714,
+  "heat_capacity": 11.429,
   "forging_temperature": 720,
   "woelding_temperature": 960
 }

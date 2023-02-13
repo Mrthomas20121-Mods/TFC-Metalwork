@@ -1,7 +1,19 @@
 {
   "variants": {
-    "": {
+    "facing=east": {
+      "model": "tfc_metalwork:block/metal/ladder/chromium",
+      "y": 90
+    },
+    "facing=north": {
       "model": "tfc_metalwork:block/metal/ladder/chromium"
+    },
+    "facing=south": {
+      "model": "tfc_metalwork:block/metal/ladder/chromium",
+      "y": 180
+    },
+    "facing=west": {
+      "model": "tfc_metalwork:block/metal/ladder/chromium",
+      "y": 270
     }
   }
 }

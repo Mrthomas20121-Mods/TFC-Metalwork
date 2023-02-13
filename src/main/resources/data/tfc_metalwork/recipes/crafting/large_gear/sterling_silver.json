@@ -1,0 +1,16 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    " X ",
+    "X X",
+    " X "
+  ],
+  "key": {
+    "X": {
+      "item": "tfc_metalwork:metal/large_rod/sterling_silver"
+    }
+  },
+  "result": {
+    "item": "tfc_metalwork:metal/large_gear/sterling_silver"
+  }
+}

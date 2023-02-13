@@ -1,0 +1,12 @@
+{
+  "type": "tfc:heating",
+  "ingredient": {
+    "tag": "forge:dusts/iridium"
+  },
+  "result_fluid": {
+    "fluid": "tfc_metallum:metal/iridium",
+    "amount": 100
+  },
+  "temperature": 2490,
+  "use_durability": false
+}

@@ -1,0 +1,12 @@
+{
+  "type": "tfc:heating",
+  "ingredient": {
+    "item": "tfc_metalwork/metal/block/mithril_slab"
+  },
+  "result_fluid": {
+    "fluid": "tfc_metallum:metal/mithril",
+    "amount": 400
+  },
+  "temperature": 940,
+  "use_durability": false
+}

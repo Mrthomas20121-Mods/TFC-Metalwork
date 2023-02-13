@@ -1,0 +1,12 @@
+{
+  "type": "tfc:heating",
+  "ingredient": {
+    "tag": "tfc_metalwork:metal_ladders/rose_gold"
+  },
+  "result_fluid": {
+    "fluid": "tfc:metal/rose_gold",
+    "amount": 700
+  },
+  "temperature": 960,
+  "use_durability": false
+}

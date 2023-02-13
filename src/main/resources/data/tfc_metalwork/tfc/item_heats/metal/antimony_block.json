@@ -2,7 +2,7 @@
   "ingredient": {
     "tag": "forge:storage_blocks/antimony"
   },
-  "heat_capacity": 36,
+  "heat_capacity": 16,
   "forging_temperature": 378,
   "woelding_temperature": 504
 }

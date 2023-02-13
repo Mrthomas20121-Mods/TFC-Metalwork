@@ -1,7 +1,19 @@
 {
   "variants": {
-    "": {
+    "facing=east": {
+      "model": "tfc_metalwork:block/metal/ladder/rose_gold",
+      "y": 90
+    },
+    "facing=north": {
       "model": "tfc_metalwork:block/metal/ladder/rose_gold"
+    },
+    "facing=south": {
+      "model": "tfc_metalwork:block/metal/ladder/rose_gold",
+      "y": 180
+    },
+    "facing=west": {
+      "model": "tfc_metalwork:block/metal/ladder/rose_gold",
+      "y": 270
     }
   }
 }

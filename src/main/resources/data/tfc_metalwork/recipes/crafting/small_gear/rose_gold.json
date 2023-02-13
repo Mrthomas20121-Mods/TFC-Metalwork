@@ -1,0 +1,16 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    " X ",
+    "X X",
+    " X "
+  ],
+  "key": {
+    "X": {
+      "item": "tfc:metal/rod/rose_gold"
+    }
+  },
+  "result": {
+    "item": "tfc_metalwork:metal/small_gear/rose_gold"
+  }
+}

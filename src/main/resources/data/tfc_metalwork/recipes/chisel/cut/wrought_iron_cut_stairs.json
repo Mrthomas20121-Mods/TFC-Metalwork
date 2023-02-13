@@ -1,0 +1,6 @@
+{
+  "type": "tfc:chisel",
+  "ingredient": "tfc_metalwork:metal/block/wrought_iron_stairs",
+  "result": "tfc_metalwork:metal/cut/wrought_iron_stairs",
+  "mode": "smooth"
+}

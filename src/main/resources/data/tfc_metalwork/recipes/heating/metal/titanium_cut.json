@@ -1,0 +1,12 @@
+{
+  "type": "tfc:heating",
+  "ingredient": {
+    "tag": "tfc_metalwork:cut/titanium"
+  },
+  "result_fluid": {
+    "fluid": "tfc_metallum:metal/titanium",
+    "amount": 400
+  },
+  "temperature": 1700,
+  "use_durability": false
+}

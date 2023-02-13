@@ -1,0 +1,9 @@
+{
+  "type": "tfc:quern",
+  "ingredient": {
+    "item": "tfc:metal/ingot/rose_gold"
+  },
+  "result": {
+    "item": "tfc_metalwork:metal/dust/rose_gold"
+  }
+}

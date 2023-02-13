@@ -1,0 +1,22 @@
+{
+  "type": "tfc:anvil",
+  "input": {
+    "item": "tfc_metallum:metal/double_ingot/signalum"
+  },
+  "result": {
+    "item": "tfc_metalwork:metal/large_plate/signalum"
+  },
+  "tier": 4,
+  "rules": [
+    "hit_any",
+    "draw_any",
+    "bend_last"
+  ],
+  "apply_forging_bonus": false,
+  "conditions": [
+    {
+      "type": "forge:mod_loaded",
+      "modid": "tfc_metallum"
+    }
+  ]
+}

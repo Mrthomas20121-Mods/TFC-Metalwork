@@ -1,0 +1,12 @@
+{
+  "type": "tfc:heating",
+  "ingredient": {
+    "tag": "forge:large_gears/copper"
+  },
+  "result_fluid": {
+    "fluid": "tfc:metal/copper",
+    "amount": 800
+  },
+  "temperature": 1080,
+  "use_durability": false
+}

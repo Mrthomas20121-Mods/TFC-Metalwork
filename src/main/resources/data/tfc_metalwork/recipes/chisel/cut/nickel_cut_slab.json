@@ -1,0 +1,6 @@
+{
+  "type": "tfc:chisel",
+  "ingredient": "tfc_metalwork:metal/block/nickel_slab",
+  "result": "tfc_metalwork:metal/cut/nickel_slab",
+  "mode": "smooth"
+}

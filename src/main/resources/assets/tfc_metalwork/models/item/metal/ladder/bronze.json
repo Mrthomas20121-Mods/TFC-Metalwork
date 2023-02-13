@@ -1,3 +1,6 @@
 {
-  "parent": "tfc_metalwork:block/metal/ladder/bronze"
+  "parent": "item/generated",
+  "textures": {
+    "layer0": "tfc_metalwork:block/metal/ladder/bronze"
+  }
 }

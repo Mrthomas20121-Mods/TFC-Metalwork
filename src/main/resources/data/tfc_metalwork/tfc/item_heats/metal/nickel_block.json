@@ -2,7 +2,7 @@
   "ingredient": {
     "tag": "forge:storage_blocks/nickel"
   },
-  "heat_capacity": 18.75,
+  "heat_capacity": 8.333,
   "forging_temperature": 872,
   "woelding_temperature": 1162
 }

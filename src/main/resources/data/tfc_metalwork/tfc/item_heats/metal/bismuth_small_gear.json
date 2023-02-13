@@ -2,7 +2,7 @@
   "ingredient": {
     "tag": "forge:gears/bismuth"
   },
-  "heat_capacity": 14.286,
+  "heat_capacity": 28.571,
   "forging_temperature": 162,
   "woelding_temperature": 216
 }

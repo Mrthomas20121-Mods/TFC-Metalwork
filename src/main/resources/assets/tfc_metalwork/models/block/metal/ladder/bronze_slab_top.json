@@ -1,8 +1,0 @@
-{
-  "parent": "block/slab_top",
-  "textures": {
-    "bottom": "tfc_metalwork:block/metal/ladder/bronze",
-    "top": "tfc_metalwork:block/metal/ladder/bronze",
-    "side": "tfc_metalwork:block/metal/ladder/bronze"
-  }
-}

@@ -1,0 +1,12 @@
+{
+  "type": "tfc:heating",
+  "ingredient": {
+    "item": "tfc_metalwork/metal/cut/nickel_stairs"
+  },
+  "result_fluid": {
+    "fluid": "tfc:metal/nickel",
+    "amount": 400
+  },
+  "temperature": 1453,
+  "use_durability": false
+}

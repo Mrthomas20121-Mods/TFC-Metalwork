@@ -1,0 +1,12 @@
+{
+  "type": "tfc:chisel",
+  "ingredient": "tfc_metalwork:metal/cut/iridium",
+  "result": "tfc_metalwork:metal/cut/iridium_stairs",
+  "mode": "stair",
+  "conditions": [
+    {
+      "type": "forge:mod_loaded",
+      "modid": "tfc_metallum"
+    }
+  ]
+}

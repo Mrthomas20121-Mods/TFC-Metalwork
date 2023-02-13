@@ -1,0 +1,22 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    " X ",
+    "X X",
+    " X "
+  ],
+  "key": {
+    "X": {
+      "item": "tfc_metalwork:metal/large_rod/solder"
+    }
+  },
+  "result": {
+    "item": "tfc_metalwork:metal/large_gear/solder"
+  },
+  "conditions": [
+    {
+      "type": "forge:mod_loaded",
+      "modid": "tfc_metallum"
+    }
+  ]
+}

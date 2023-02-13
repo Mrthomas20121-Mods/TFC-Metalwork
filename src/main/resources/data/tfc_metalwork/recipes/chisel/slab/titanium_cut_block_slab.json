@@ -1,0 +1,15 @@
+{
+  "type": "tfc:chisel",
+  "ingredient": "tfc_metalwork:metal/cut/titanium",
+  "result": "tfc_metalwork:metal/cut/titanium_slab",
+  "mode": "slab",
+  "extra_drop": {
+    "item": "tfc_metalwork:metal/cut/titanium_slab"
+  },
+  "conditions": [
+    {
+      "type": "forge:mod_loaded",
+      "modid": "tfc_metallum"
+    }
+  ]
+}

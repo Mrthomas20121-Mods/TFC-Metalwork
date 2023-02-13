@@ -1,0 +1,8 @@
+{
+  "ingredient": {
+    "item": "tfc_metalwork:tfc_metalwork/metal/cut/silver_wall"
+  },
+  "heat_capacity": 8.333,
+  "forging_temperature": 577,
+  "woelding_temperature": 769
+}

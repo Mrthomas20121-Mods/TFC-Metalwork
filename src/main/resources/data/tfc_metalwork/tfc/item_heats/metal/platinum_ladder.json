@@ -2,7 +2,7 @@
   "ingredient": {
     "tag": "tfc_metalwork:metal_ladders/platinum"
   },
-  "heat_capacity": 11.429,
+  "heat_capacity": 20,
   "forging_temperature": 1038,
   "woelding_temperature": 1384
 }

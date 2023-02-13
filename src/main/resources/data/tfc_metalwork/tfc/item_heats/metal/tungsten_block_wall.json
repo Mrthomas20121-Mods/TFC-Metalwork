@@ -1,0 +1,8 @@
+{
+  "ingredient": {
+    "item": "tfc_metalwork:tfc_metalwork/metal/block/tungsten_wall"
+  },
+  "heat_capacity": 20,
+  "forging_temperature": 2040,
+  "woelding_temperature": 2720
+}

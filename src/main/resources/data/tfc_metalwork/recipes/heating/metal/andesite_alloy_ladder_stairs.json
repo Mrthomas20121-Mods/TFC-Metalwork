@@ -1,0 +1,12 @@
+{
+  "type": "tfc:heating",
+  "ingredient": {
+    "item": "tfc_metalwork/metal/ladder/andesite_alloy_stairs"
+  },
+  "result_fluid": {
+    "fluid": "tfc_metallum:metal/andesite_alloy",
+    "amount": 700
+  },
+  "temperature": 520,
+  "use_durability": false
+}

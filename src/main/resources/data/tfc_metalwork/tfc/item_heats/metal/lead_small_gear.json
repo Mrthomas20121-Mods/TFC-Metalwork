@@ -2,7 +2,7 @@
   "ingredient": {
     "tag": "forge:gears/lead"
   },
-  "heat_capacity": 9.091,
+  "heat_capacity": 18.182,
   "forging_temperature": 197,
   "woelding_temperature": 262
 }

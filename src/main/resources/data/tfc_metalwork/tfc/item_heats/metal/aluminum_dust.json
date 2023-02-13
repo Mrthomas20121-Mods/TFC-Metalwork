@@ -2,7 +2,7 @@
   "ingredient": {
     "tag": "forge:dusts/aluminum"
   },
-  "heat_capacity": 6.667,
+  "heat_capacity": 3.333,
   "forging_temperature": 396,
   "woelding_temperature": 528
 }

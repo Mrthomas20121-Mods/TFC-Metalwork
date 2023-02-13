@@ -1,0 +1,16 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "X   X",
+    "XXX",
+    "X   X"
+  ],
+  "key": {
+    "x": {
+      "item": "tfc:metal/rod/cast_iron"
+    }
+  },
+  "result": {
+    "item": "tfc_metalwork:metal/ladder/cast_iron"
+  }
+}

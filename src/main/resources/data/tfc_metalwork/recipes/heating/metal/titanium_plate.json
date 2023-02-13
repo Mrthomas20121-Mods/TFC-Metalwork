@@ -1,0 +1,12 @@
+{
+  "type": "tfc:heating",
+  "ingredient": {
+    "tag": "forge:plates/titanium"
+  },
+  "result_fluid": {
+    "fluid": "tfc_metallum:metal/titanium",
+    "amount": 200
+  },
+  "temperature": 1700,
+  "use_durability": false
+}

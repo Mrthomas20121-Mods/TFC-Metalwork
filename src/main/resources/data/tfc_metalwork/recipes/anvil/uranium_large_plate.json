@@ -1,0 +1,22 @@
+{
+  "type": "tfc:anvil",
+  "input": {
+    "item": "tfc_metallum:metal/double_ingot/uranium"
+  },
+  "result": {
+    "item": "tfc_metalwork:metal/large_plate/uranium"
+  },
+  "tier": 3,
+  "rules": [
+    "hit_any",
+    "draw_any",
+    "bend_last"
+  ],
+  "apply_forging_bonus": false,
+  "conditions": [
+    {
+      "type": "forge:mod_loaded",
+      "modid": "tfc_metallum"
+    }
+  ]
+}

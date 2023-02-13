@@ -1,0 +1,12 @@
+{
+  "type": "tfc:heating",
+  "ingredient": {
+    "tag": "forge:large_gears/platinum"
+  },
+  "result_fluid": {
+    "fluid": "tfc_metallum:metal/platinum",
+    "amount": 800
+  },
+  "temperature": 1730,
+  "use_durability": false
+}

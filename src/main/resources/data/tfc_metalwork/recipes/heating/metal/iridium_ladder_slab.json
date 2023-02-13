@@ -1,0 +1,12 @@
+{
+  "type": "tfc:heating",
+  "ingredient": {
+    "item": "tfc_metalwork/metal/ladder/iridium_slab"
+  },
+  "result_fluid": {
+    "fluid": "tfc_metallum:metal/iridium",
+    "amount": 700
+  },
+  "temperature": 2490,
+  "use_durability": false
+}

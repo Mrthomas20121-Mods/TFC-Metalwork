@@ -1,0 +1,6 @@
+{
+  "type": "tfc:chisel",
+  "ingredient": "tfc_metalwork:metal/block/nickel_stairs",
+  "result": "tfc_metalwork:metal/cut/nickel_stairs",
+  "mode": "smooth"
+}

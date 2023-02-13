@@ -1,6 +1,0 @@
-{
-  "parent": "block/cube_all",
-  "textures": {
-    "all": "tfc_metalwork:block/metal/ladder/pig_iron"
-  }
-}

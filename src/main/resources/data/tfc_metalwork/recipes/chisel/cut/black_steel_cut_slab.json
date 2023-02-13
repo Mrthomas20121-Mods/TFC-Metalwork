@@ -1,0 +1,6 @@
+{
+  "type": "tfc:chisel",
+  "ingredient": "tfc_metalwork:metal/block/black_steel_slab",
+  "result": "tfc_metalwork:metal/cut/black_steel_slab",
+  "mode": "smooth"
+}

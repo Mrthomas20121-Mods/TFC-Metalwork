@@ -1,0 +1,16 @@
+{
+  "type": "tfc:anvil",
+  "input": {
+    "item": "tfc_metalwork:metal/cut/black_steel"
+  },
+  "result": {
+    "item": "tfc_metalwork:metal/cut/black_steel_stairs"
+  },
+  "tier": 5,
+  "rules": [
+    "hit_not_last",
+    "draw_any",
+    "draw_any"
+  ],
+  "apply_forging_bonus": false
+}

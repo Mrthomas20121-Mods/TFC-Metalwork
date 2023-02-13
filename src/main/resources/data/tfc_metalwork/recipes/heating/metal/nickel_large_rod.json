@@ -1,0 +1,12 @@
+{
+  "type": "tfc:heating",
+  "ingredient": {
+    "tag": "forge:large_rods/nickel"
+  },
+  "result_fluid": {
+    "fluid": "tfc:metal/nickel",
+    "amount": 200
+  },
+  "temperature": 1453,
+  "use_durability": false
+}

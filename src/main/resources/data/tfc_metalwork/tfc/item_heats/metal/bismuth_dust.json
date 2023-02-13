@@ -2,7 +2,7 @@
   "ingredient": {
     "tag": "forge:dusts/bismuth"
   },
-  "heat_capacity": 14.286,
+  "heat_capacity": 7.143,
   "forging_temperature": 162,
   "woelding_temperature": 216
 }

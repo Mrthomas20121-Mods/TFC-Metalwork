@@ -1,0 +1,12 @@
+{
+  "type": "tfc:heating",
+  "ingredient": {
+    "tag": "forge:dusts/lead"
+  },
+  "result_fluid": {
+    "fluid": "tfc_metallum:metal/lead",
+    "amount": 100
+  },
+  "temperature": 328,
+  "use_durability": false
+}

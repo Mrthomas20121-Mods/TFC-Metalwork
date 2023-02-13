@@ -1,0 +1,9 @@
+{
+  "type": "tfc:quern",
+  "ingredient": {
+    "item": "tfc:metal/ingot/nickel"
+  },
+  "result": {
+    "item": "tfc_metalwork:metal/dust/nickel"
+  }
+}

@@ -1,0 +1,12 @@
+{
+  "type": "tfc:heating",
+  "ingredient": {
+    "tag": "forge:large_plates/blue_steel"
+  },
+  "result_fluid": {
+    "fluid": "tfc:metal/blue_steel",
+    "amount": 400
+  },
+  "temperature": 1540,
+  "use_durability": false
+}

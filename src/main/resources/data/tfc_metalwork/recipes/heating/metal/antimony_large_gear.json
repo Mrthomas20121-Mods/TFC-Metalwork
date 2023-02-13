@@ -1,0 +1,12 @@
+{
+  "type": "tfc:heating",
+  "ingredient": {
+    "tag": "forge:large_gears/antimony"
+  },
+  "result_fluid": {
+    "fluid": "tfc_metallum:metal/antimony",
+    "amount": 800
+  },
+  "temperature": 630,
+  "use_durability": false
+}

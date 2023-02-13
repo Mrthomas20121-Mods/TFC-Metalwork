@@ -1,0 +1,15 @@
+{
+  "type": "tfc:chisel",
+  "ingredient": "tfc_metalwork:metal/block/platinum",
+  "result": "tfc_metalwork:metal/block/platinum_slab",
+  "mode": "slab",
+  "extra_drop": {
+    "item": "tfc_metalwork:metal/block/platinum_slab"
+  },
+  "conditions": [
+    {
+      "type": "forge:mod_loaded",
+      "modid": "tfc_metallum"
+    }
+  ]
+}

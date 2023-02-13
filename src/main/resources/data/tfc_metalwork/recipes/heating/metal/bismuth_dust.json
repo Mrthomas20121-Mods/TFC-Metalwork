@@ -1,0 +1,12 @@
+{
+  "type": "tfc:heating",
+  "ingredient": {
+    "tag": "forge:dusts/bismuth"
+  },
+  "result_fluid": {
+    "fluid": "tfc:metal/bismuth",
+    "amount": 100
+  },
+  "temperature": 270,
+  "use_durability": false
+}

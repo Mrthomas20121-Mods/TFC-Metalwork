@@ -1,0 +1,12 @@
+{
+  "type": "tfc:chisel",
+  "ingredient": "tfc_metalwork:metal/block/pink_slime_wall",
+  "result": "tfc_metalwork:metal/cut/pink_slime_wall",
+  "mode": "smooth",
+  "conditions": [
+    {
+      "type": "forge:mod_loaded",
+      "modid": "tfc_metallum"
+    }
+  ]
+}

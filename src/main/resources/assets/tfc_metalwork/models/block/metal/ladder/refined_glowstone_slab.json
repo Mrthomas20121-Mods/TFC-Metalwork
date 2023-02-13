@@ -1,8 +1,0 @@
-{
-  "parent": "block/slab",
-  "textures": {
-    "bottom": "tfc_metalwork:block/metal/ladder/refined_glowstone",
-    "top": "tfc_metalwork:block/metal/ladder/refined_glowstone",
-    "side": "tfc_metalwork:block/metal/ladder/refined_glowstone"
-  }
-}

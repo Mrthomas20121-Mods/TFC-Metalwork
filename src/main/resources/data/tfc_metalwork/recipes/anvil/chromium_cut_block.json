@@ -1,0 +1,22 @@
+{
+  "type": "tfc:anvil",
+  "input": {
+    "item": "tfc_metalwork:metal/block/chromium"
+  },
+  "result": {
+    "item": "tfc_metalwork:metal/cut/chromium"
+  },
+  "tier": 4,
+  "rules": [
+    "hit_last",
+    "hit_any",
+    "upset_any"
+  ],
+  "apply_forging_bonus": false,
+  "conditions": [
+    {
+      "type": "forge:mod_loaded",
+      "modid": "firmalife"
+    }
+  ]
+}

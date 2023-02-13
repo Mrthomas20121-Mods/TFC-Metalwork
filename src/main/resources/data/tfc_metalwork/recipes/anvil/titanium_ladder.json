@@ -1,0 +1,22 @@
+{
+  "type": "tfc:anvil",
+  "input": {
+    "item": "tfc_metalwork:metal/large_rod/titanium"
+  },
+  "result": {
+    "item": "tfc_metalwork:metal/ladder/titanium"
+  },
+  "tier": 6,
+  "rules": [
+    "bend_last",
+    "bend_second_last",
+    "hit_any"
+  ],
+  "apply_forging_bonus": false,
+  "conditions": [
+    {
+      "type": "forge:mod_loaded",
+      "modid": "tfc_metallum"
+    }
+  ]
+}

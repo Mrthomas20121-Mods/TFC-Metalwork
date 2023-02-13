@@ -1,0 +1,6 @@
+{
+  "type": "tfc:chisel",
+  "ingredient": "tfc_metalwork:metal/block/bismuth_bronze_stairs",
+  "result": "tfc_metalwork:metal/cut/bismuth_bronze_stairs",
+  "mode": "smooth"
+}

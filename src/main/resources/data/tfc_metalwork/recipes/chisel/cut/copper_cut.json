@@ -1,0 +1,6 @@
+{
+  "type": "tfc:chisel",
+  "ingredient": "tfc_metalwork:metal/block/copper",
+  "result": "tfc_metalwork:metal/cut/copper",
+  "mode": "smooth"
+}

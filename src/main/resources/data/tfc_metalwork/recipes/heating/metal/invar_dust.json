@@ -1,0 +1,12 @@
+{
+  "type": "tfc:heating",
+  "ingredient": {
+    "tag": "forge:dusts/invar"
+  },
+  "result_fluid": {
+    "fluid": "tfc_metallum:metal/invar",
+    "amount": 100
+  },
+  "temperature": 1450,
+  "use_durability": false
+}

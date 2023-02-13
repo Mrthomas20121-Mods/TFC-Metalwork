@@ -1,0 +1,12 @@
+{
+  "type": "tfc:heating",
+  "ingredient": {
+    "tag": "forge:large_rods/brass"
+  },
+  "result_fluid": {
+    "fluid": "tfc:metal/brass",
+    "amount": 200
+  },
+  "temperature": 930,
+  "use_durability": false
+}

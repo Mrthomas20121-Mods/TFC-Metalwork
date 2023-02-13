@@ -1,0 +1,12 @@
+{
+  "type": "tfc:heating",
+  "ingredient": {
+    "tag": "tfc_metalwork:metal_ladders/osmium"
+  },
+  "result_fluid": {
+    "fluid": "tfc_metallum:metal/osmium",
+    "amount": 700
+  },
+  "temperature": 3025,
+  "use_durability": false
+}

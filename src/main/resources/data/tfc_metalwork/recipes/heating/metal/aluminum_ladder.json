@@ -1,0 +1,12 @@
+{
+  "type": "tfc:heating",
+  "ingredient": {
+    "tag": "tfc_metalwork:metal_ladders/aluminum"
+  },
+  "result_fluid": {
+    "fluid": "tfc_metallum:metal/aluminum",
+    "amount": 700
+  },
+  "temperature": 660,
+  "use_durability": false
+}

@@ -1,0 +1,12 @@
+{
+  "type": "tfc:heating",
+  "ingredient": {
+    "tag": "forge:large_rods/chromium"
+  },
+  "result_fluid": {
+    "fluid": "firmalife:metal/chromium",
+    "amount": 200
+  },
+  "temperature": 1250,
+  "use_durability": false
+}

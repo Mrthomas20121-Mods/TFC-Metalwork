@@ -2,7 +2,7 @@
   "ingredient": {
     "tag": "forge:large_gears/solder"
   },
-  "heat_capacity": 17.143,
+  "heat_capacity": 22.857,
   "forging_temperature": 240,
   "woelding_temperature": 320
 }

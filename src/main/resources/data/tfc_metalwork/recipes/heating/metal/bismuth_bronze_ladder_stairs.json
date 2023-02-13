@@ -1,0 +1,12 @@
+{
+  "type": "tfc:heating",
+  "ingredient": {
+    "item": "tfc_metalwork/metal/ladder/bismuth_bronze_stairs"
+  },
+  "result_fluid": {
+    "fluid": "tfc:metal/bismuth_bronze",
+    "amount": 700
+  },
+  "temperature": 985,
+  "use_durability": false
+}

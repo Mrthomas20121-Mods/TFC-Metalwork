@@ -1,0 +1,8 @@
+{
+  "ingredient": {
+    "item": "tfc_metalwork:tfc_metalwork/metal/block/aluminum_wall"
+  },
+  "heat_capacity": 13.333,
+  "forging_temperature": 396,
+  "woelding_temperature": 528
+}

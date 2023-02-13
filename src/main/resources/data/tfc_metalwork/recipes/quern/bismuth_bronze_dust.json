@@ -1,0 +1,9 @@
+{
+  "type": "tfc:quern",
+  "ingredient": {
+    "item": "tfc:metal/ingot/bismuth_bronze"
+  },
+  "result": {
+    "item": "tfc_metalwork:metal/dust/bismuth_bronze"
+  }
+}

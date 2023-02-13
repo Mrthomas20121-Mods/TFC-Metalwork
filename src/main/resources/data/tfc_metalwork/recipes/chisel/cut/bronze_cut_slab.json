@@ -1,0 +1,6 @@
+{
+  "type": "tfc:chisel",
+  "ingredient": "tfc_metalwork:metal/block/bronze_slab",
+  "result": "tfc_metalwork:metal/cut/bronze_slab",
+  "mode": "smooth"
+}

@@ -1,0 +1,12 @@
+{
+  "type": "tfc:heating",
+  "ingredient": {
+    "item": "tfc_metalwork/metal/ladder/steel_slab"
+  },
+  "result_fluid": {
+    "fluid": "tfc:metal/steel",
+    "amount": 700
+  },
+  "temperature": 1540,
+  "use_durability": false
+}

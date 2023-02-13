@@ -1,7 +1,19 @@
 {
   "variants": {
-    "": {
+    "facing=east": {
+      "model": "tfc_metalwork:block/metal/ladder/tungsten",
+      "y": 90
+    },
+    "facing=north": {
       "model": "tfc_metalwork:block/metal/ladder/tungsten"
+    },
+    "facing=south": {
+      "model": "tfc_metalwork:block/metal/ladder/tungsten",
+      "y": 180
+    },
+    "facing=west": {
+      "model": "tfc_metalwork:block/metal/ladder/tungsten",
+      "y": 270
     }
   }
 }

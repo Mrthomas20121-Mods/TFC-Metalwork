@@ -1,0 +1,12 @@
+{
+  "type": "tfc:chisel",
+  "ingredient": "tfc_metalwork:metal/block/refined_obsidian_slab",
+  "result": "tfc_metalwork:metal/cut/refined_obsidian_slab",
+  "mode": "smooth",
+  "conditions": [
+    {
+      "type": "forge:mod_loaded",
+      "modid": "tfc_metallum"
+    }
+  ]
+}

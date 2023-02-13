@@ -1,0 +1,12 @@
+{
+  "type": "tfc:heating",
+  "ingredient": {
+    "tag": "tfc_metalwork:metal_ladders/solder"
+  },
+  "result_fluid": {
+    "fluid": "tfc_metallum:metal/solder",
+    "amount": 700
+  },
+  "temperature": 400,
+  "use_durability": false
+}

@@ -1,0 +1,15 @@
+{
+  "type": "tfc:quern",
+  "ingredient": {
+    "item": "tfc_metallum:metal/ingot/platinum"
+  },
+  "result": {
+    "item": "tfc_metalwork:metal/dust/platinum"
+  },
+  "conditions": [
+    {
+      "type": "forge:mod_loaded",
+      "modid": "tfc_metallum"
+    }
+  ]
+}

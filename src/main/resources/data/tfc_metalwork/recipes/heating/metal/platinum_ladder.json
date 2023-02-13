@@ -1,0 +1,12 @@
+{
+  "type": "tfc:heating",
+  "ingredient": {
+    "tag": "tfc_metalwork:metal_ladders/platinum"
+  },
+  "result_fluid": {
+    "fluid": "tfc_metallum:metal/platinum",
+    "amount": 700
+  },
+  "temperature": 1730,
+  "use_durability": false
+}

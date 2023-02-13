@@ -1,0 +1,8 @@
+{
+  "ingredient": {
+    "item": "tfc_metalwork:tfc_metalwork/metal/cut/chromium_stairs"
+  },
+  "heat_capacity": 11.429,
+  "forging_temperature": 750,
+  "woelding_temperature": 1000
+}

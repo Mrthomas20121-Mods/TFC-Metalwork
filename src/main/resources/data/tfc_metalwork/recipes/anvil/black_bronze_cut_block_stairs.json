@@ -1,0 +1,16 @@
+{
+  "type": "tfc:anvil",
+  "input": {
+    "item": "tfc_metalwork:metal/cut/black_bronze"
+  },
+  "result": {
+    "item": "tfc_metalwork:metal/cut/black_bronze_stairs"
+  },
+  "tier": 2,
+  "rules": [
+    "hit_not_last",
+    "draw_any",
+    "draw_any"
+  ],
+  "apply_forging_bonus": false
+}

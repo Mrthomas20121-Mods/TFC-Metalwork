@@ -1,0 +1,16 @@
+{
+  "type": "tfc:anvil",
+  "input": {
+    "item": "tfc:metal/double_ingot/gold"
+  },
+  "result": {
+    "item": "tfc_metalwork:metal/large_plate/gold"
+  },
+  "tier": 1,
+  "rules": [
+    "hit_any",
+    "draw_any",
+    "bend_last"
+  ],
+  "apply_forging_bonus": false
+}

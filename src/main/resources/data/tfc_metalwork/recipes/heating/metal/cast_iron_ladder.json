@@ -1,0 +1,12 @@
+{
+  "type": "tfc:heating",
+  "ingredient": {
+    "tag": "tfc_metalwork:metal_ladders/cast_iron"
+  },
+  "result_fluid": {
+    "fluid": "tfc:metal/cast_iron",
+    "amount": 700
+  },
+  "temperature": 1535,
+  "use_durability": false
+}

@@ -2,7 +2,7 @@
   "ingredient": {
     "tag": "forge:storage_blocks/zinc"
   },
-  "heat_capacity": 42.857,
+  "heat_capacity": 19.048,
   "forging_temperature": 252,
   "woelding_temperature": 336
 }

@@ -1,0 +1,6 @@
+{
+  "type": "tfc:chisel",
+  "ingredient": "tfc_metalwork:metal/block/cast_iron",
+  "result": "tfc_metalwork:metal/block/cast_iron_stairs",
+  "mode": "stair"
+}

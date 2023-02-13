@@ -1,0 +1,6 @@
+{
+  "type": "tfc:chisel",
+  "ingredient": "tfc_metalwork:metal/block/brass_stairs",
+  "result": "tfc_metalwork:metal/cut/brass_stairs",
+  "mode": "smooth"
+}

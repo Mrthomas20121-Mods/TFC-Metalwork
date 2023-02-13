@@ -1,0 +1,23 @@
+{
+  "type": "tfc:anvil",
+  "input": {
+    "item": "tfc_metalwork:metal/block/tungsten"
+  },
+  "result": {
+    "item": "tfc_metalwork:metal/block/tungsten_slab",
+    "count": 2
+  },
+  "tier": 6,
+  "rules": [
+    "bend_last",
+    "draw_any",
+    "draw_any"
+  ],
+  "apply_forging_bonus": false,
+  "conditions": [
+    {
+      "type": "forge:mod_loaded",
+      "modid": "tfc_metallum"
+    }
+  ]
+}

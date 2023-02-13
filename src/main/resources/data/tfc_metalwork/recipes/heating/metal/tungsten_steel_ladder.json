@@ -1,0 +1,12 @@
+{
+  "type": "tfc:heating",
+  "ingredient": {
+    "tag": "tfc_metalwork:metal_ladders/tungsten_steel"
+  },
+  "result_fluid": {
+    "fluid": "tfc_metallum:metal/tungsten_steel",
+    "amount": 700
+  },
+  "temperature": 3690,
+  "use_durability": false
+}

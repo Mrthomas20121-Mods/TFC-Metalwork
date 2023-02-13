@@ -1,8 +1,0 @@
-{
-  "parent": "block/slab_top",
-  "textures": {
-    "bottom": "tfc_metalwork:block/metal/ladder/refined_obsidian",
-    "top": "tfc_metalwork:block/metal/ladder/refined_obsidian",
-    "side": "tfc_metalwork:block/metal/ladder/refined_obsidian"
-  }
-}

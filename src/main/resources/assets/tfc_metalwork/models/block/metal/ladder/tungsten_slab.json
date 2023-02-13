@@ -1,8 +1,0 @@
-{
-  "parent": "block/slab",
-  "textures": {
-    "bottom": "tfc_metalwork:block/metal/ladder/tungsten",
-    "top": "tfc_metalwork:block/metal/ladder/tungsten",
-    "side": "tfc_metalwork:block/metal/ladder/tungsten"
-  }
-}

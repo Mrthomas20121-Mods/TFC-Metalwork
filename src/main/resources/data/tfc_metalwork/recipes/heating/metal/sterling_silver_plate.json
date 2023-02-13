@@ -1,0 +1,12 @@
+{
+  "type": "tfc:heating",
+  "ingredient": {
+    "tag": "forge:plates/sterling_silver"
+  },
+  "result_fluid": {
+    "fluid": "tfc:metal/sterling_silver",
+    "amount": 200
+  },
+  "temperature": 900,
+  "use_durability": false
+}

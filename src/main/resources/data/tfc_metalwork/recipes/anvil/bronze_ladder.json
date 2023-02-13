@@ -1,0 +1,16 @@
+{
+  "type": "tfc:anvil",
+  "input": {
+    "item": "tfc_metalwork:metal/large_rod/bronze"
+  },
+  "result": {
+    "item": "tfc_metalwork:metal/ladder/bronze"
+  },
+  "tier": 2,
+  "rules": [
+    "bend_last",
+    "bend_second_last",
+    "hit_third_last"
+  ],
+  "apply_forging_bonus": false
+}

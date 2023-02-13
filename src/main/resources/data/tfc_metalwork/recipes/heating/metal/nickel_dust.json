@@ -1,0 +1,12 @@
+{
+  "type": "tfc:heating",
+  "ingredient": {
+    "tag": "forge:dusts/nickel"
+  },
+  "result_fluid": {
+    "fluid": "tfc:metal/nickel",
+    "amount": 100
+  },
+  "temperature": 1453,
+  "use_durability": false
+}

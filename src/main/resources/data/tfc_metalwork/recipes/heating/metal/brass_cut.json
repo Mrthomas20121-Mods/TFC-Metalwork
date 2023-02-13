@@ -1,0 +1,12 @@
+{
+  "type": "tfc:heating",
+  "ingredient": {
+    "tag": "tfc_metalwork:cut/brass"
+  },
+  "result_fluid": {
+    "fluid": "tfc:metal/brass",
+    "amount": 400
+  },
+  "temperature": 930,
+  "use_durability": false
+}

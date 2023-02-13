@@ -2,7 +2,7 @@
   "ingredient": {
     "tag": "tfc_metalwork:metal_ladders/boron"
   },
-  "heat_capacity": 13.333,
+  "heat_capacity": 23.333,
   "forging_temperature": 1242,
   "woelding_temperature": 1656
 }

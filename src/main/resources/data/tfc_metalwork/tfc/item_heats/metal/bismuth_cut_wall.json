@@ -1,0 +1,8 @@
+{
+  "ingredient": {
+    "item": "tfc_metalwork:tfc_metalwork/metal/cut/bismuth_wall"
+  },
+  "heat_capacity": 28.571,
+  "forging_temperature": 162,
+  "woelding_temperature": 216
+}

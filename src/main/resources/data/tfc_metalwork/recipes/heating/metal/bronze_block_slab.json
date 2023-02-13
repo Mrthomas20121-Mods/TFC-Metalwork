@@ -1,0 +1,12 @@
+{
+  "type": "tfc:heating",
+  "ingredient": {
+    "item": "tfc_metalwork/metal/block/bronze_slab"
+  },
+  "result_fluid": {
+    "fluid": "tfc:metal/bronze",
+    "amount": 400
+  },
+  "temperature": 950,
+  "use_durability": false
+}

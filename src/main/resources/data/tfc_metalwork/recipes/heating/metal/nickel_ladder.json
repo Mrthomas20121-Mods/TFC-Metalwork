@@ -1,0 +1,12 @@
+{
+  "type": "tfc:heating",
+  "ingredient": {
+    "tag": "tfc_metalwork:metal_ladders/nickel"
+  },
+  "result_fluid": {
+    "fluid": "tfc:metal/nickel",
+    "amount": 700
+  },
+  "temperature": 1453,
+  "use_durability": false
+}

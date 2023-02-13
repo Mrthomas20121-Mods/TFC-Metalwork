@@ -1,0 +1,12 @@
+{
+  "type": "tfc:heating",
+  "ingredient": {
+    "item": "tfc_metalwork/metal/ladder/florentine_bronze_stairs"
+  },
+  "result_fluid": {
+    "fluid": "tfc_metallum:metal/florentine_bronze",
+    "amount": 700
+  },
+  "temperature": 400,
+  "use_durability": false
+}

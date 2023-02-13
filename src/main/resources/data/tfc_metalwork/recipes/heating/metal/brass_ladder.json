@@ -1,0 +1,12 @@
+{
+  "type": "tfc:heating",
+  "ingredient": {
+    "tag": "tfc_metalwork:metal_ladders/brass"
+  },
+  "result_fluid": {
+    "fluid": "tfc:metal/brass",
+    "amount": 700
+  },
+  "temperature": 930,
+  "use_durability": false
+}

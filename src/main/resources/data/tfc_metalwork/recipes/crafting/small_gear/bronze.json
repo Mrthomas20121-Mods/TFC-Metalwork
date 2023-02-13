@@ -1,0 +1,16 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    " X ",
+    "X X",
+    " X "
+  ],
+  "key": {
+    "X": {
+      "item": "tfc:metal/rod/bronze"
+    }
+  },
+  "result": {
+    "item": "tfc_metalwork:metal/small_gear/bronze"
+  }
+}

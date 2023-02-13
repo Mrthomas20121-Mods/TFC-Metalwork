@@ -1,0 +1,9 @@
+{
+  "type": "tfc:quern",
+  "ingredient": {
+    "item": "tfc:metal/ingot/cast_iron"
+  },
+  "result": {
+    "item": "tfc_metalwork:metal/dust/cast_iron"
+  }
+}

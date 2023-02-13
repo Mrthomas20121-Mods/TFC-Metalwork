@@ -1,0 +1,9 @@
+{
+  "type": "tfc:quern",
+  "ingredient": {
+    "item": "tfc:metal/ingot/brass"
+  },
+  "result": {
+    "item": "tfc_metalwork:metal/dust/brass"
+  }
+}

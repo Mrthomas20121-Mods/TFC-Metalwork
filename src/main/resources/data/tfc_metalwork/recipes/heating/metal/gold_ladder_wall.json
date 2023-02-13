@@ -1,0 +1,12 @@
+{
+  "type": "tfc:heating",
+  "ingredient": {
+    "item": "tfc_metalwork/metal/ladder/gold_wall"
+  },
+  "result_fluid": {
+    "fluid": "tfc:metal/gold",
+    "amount": 700
+  },
+  "temperature": 1060,
+  "use_durability": false
+}

@@ -1,7 +1,19 @@
 {
   "variants": {
-    "": {
+    "facing=east": {
+      "model": "tfc_metalwork:block/metal/ladder/cobalt",
+      "y": 90
+    },
+    "facing=north": {
       "model": "tfc_metalwork:block/metal/ladder/cobalt"
+    },
+    "facing=south": {
+      "model": "tfc_metalwork:block/metal/ladder/cobalt",
+      "y": 180
+    },
+    "facing=west": {
+      "model": "tfc_metalwork:block/metal/ladder/cobalt",
+      "y": 270
     }
   }
 }

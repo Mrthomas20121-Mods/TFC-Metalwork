@@ -1,0 +1,9 @@
+{
+  "type": "tfc:chisel",
+  "ingredient": "tfc_metalwork:metal/block/nickel",
+  "result": "tfc_metalwork:metal/block/nickel_slab",
+  "mode": "slab",
+  "extra_drop": {
+    "item": "tfc_metalwork:metal/block/nickel_slab"
+  }
+}

@@ -1,0 +1,17 @@
+{
+  "type": "tfc:anvil",
+  "input": {
+    "item": "tfc_metalwork:metal/block/blue_steel"
+  },
+  "result": {
+    "item": "tfc_metalwork:metal/block/blue_steel_slab",
+    "count": 2
+  },
+  "tier": 6,
+  "rules": [
+    "bend_last",
+    "draw_any",
+    "draw_any"
+  ],
+  "apply_forging_bonus": false
+}

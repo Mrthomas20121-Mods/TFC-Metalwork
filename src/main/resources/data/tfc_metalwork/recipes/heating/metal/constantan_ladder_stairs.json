@@ -1,0 +1,12 @@
+{
+  "type": "tfc:heating",
+  "ingredient": {
+    "item": "tfc_metalwork/metal/ladder/constantan_stairs"
+  },
+  "result_fluid": {
+    "fluid": "tfc_metallum:metal/constantan",
+    "amount": 700
+  },
+  "temperature": 1200,
+  "use_durability": false
+}

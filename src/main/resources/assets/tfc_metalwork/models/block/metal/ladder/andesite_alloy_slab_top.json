@@ -1,8 +1,0 @@
-{
-  "parent": "block/slab_top",
-  "textures": {
-    "bottom": "tfc_metalwork:block/metal/ladder/andesite_alloy",
-    "top": "tfc_metalwork:block/metal/ladder/andesite_alloy",
-    "side": "tfc_metalwork:block/metal/ladder/andesite_alloy"
-  }
-}

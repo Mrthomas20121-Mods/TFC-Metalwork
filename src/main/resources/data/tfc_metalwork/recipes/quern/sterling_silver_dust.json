@@ -1,0 +1,9 @@
+{
+  "type": "tfc:quern",
+  "ingredient": {
+    "item": "tfc:metal/ingot/sterling_silver"
+  },
+  "result": {
+    "item": "tfc_metalwork:metal/dust/sterling_silver"
+  }
+}

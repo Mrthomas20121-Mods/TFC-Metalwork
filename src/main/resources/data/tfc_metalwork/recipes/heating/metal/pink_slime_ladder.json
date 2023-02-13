@@ -1,0 +1,12 @@
+{
+  "type": "tfc:heating",
+  "ingredient": {
+    "tag": "tfc_metalwork:metal_ladders/pink_slime"
+  },
+  "result_fluid": {
+    "fluid": "tfc_metallum:metal/pink_slime",
+    "amount": 700
+  },
+  "temperature": 1000,
+  "use_durability": false
+}

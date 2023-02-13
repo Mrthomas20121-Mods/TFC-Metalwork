@@ -2,7 +2,7 @@
   "ingredient": {
     "tag": "forge:large_gears/boron"
   },
-  "heat_capacity": 20,
+  "heat_capacity": 26.667,
   "forging_temperature": 1242,
   "woelding_temperature": 1656
 }

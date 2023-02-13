@@ -1,0 +1,16 @@
+{
+  "type": "tfc:anvil",
+  "input": {
+    "item": "tfc_metalwork:metal/cut/tin"
+  },
+  "result": {
+    "item": "tfc_metalwork:metal/cut/tin_wall"
+  },
+  "tier": 1,
+  "rules": [
+    "hit_last",
+    "upset_second_last",
+    "upset_third_last"
+  ],
+  "apply_forging_bonus": false
+}

@@ -1,0 +1,12 @@
+{
+  "type": "tfc:heating",
+  "ingredient": {
+    "tag": "tfc_metalwork:metal_ladders/thorium"
+  },
+  "result_fluid": {
+    "fluid": "tfc_metallum:metal/thorium",
+    "amount": 700
+  },
+  "temperature": 1750,
+  "use_durability": false
+}

@@ -1,0 +1,12 @@
+{
+  "type": "tfc:heating",
+  "ingredient": {
+    "tag": "tfc_metalwork:cut/sterling_silver"
+  },
+  "result_fluid": {
+    "fluid": "tfc:metal/sterling_silver",
+    "amount": 400
+  },
+  "temperature": 900,
+  "use_durability": false
+}

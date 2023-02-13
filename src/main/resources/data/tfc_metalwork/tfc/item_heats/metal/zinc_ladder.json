@@ -2,7 +2,7 @@
   "ingredient": {
     "tag": "tfc_metalwork:metal_ladders/zinc"
   },
-  "heat_capacity": 19.048,
+  "heat_capacity": 33.333,
   "forging_temperature": 252,
   "woelding_temperature": 336
 }

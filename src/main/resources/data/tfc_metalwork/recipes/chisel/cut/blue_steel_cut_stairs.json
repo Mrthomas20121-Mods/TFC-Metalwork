@@ -1,0 +1,6 @@
+{
+  "type": "tfc:chisel",
+  "ingredient": "tfc_metalwork:metal/block/blue_steel_stairs",
+  "result": "tfc_metalwork:metal/cut/blue_steel_stairs",
+  "mode": "smooth"
+}

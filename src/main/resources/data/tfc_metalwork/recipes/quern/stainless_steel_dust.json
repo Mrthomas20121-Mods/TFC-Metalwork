@@ -1,0 +1,15 @@
+{
+  "type": "tfc:quern",
+  "ingredient": {
+    "item": "firmalife:metal/ingot/stainless_steel"
+  },
+  "result": {
+    "item": "tfc_metalwork:metal/dust/stainless_steel"
+  },
+  "conditions": [
+    {
+      "type": "forge:mod_loaded",
+      "modid": "firmalife"
+    }
+  ]
+}

@@ -1,0 +1,6 @@
+{
+  "type": "tfc:chisel",
+  "ingredient": "tfc_metalwork:metal/cut/gold",
+  "result": "tfc_metalwork:metal/cut/gold_stairs",
+  "mode": "stair"
+}

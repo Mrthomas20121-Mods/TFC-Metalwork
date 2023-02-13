@@ -1,0 +1,15 @@
+{
+  "type": "tfc:quern",
+  "ingredient": {
+    "item": "tfc_metallum:metal/ingot/tungsten_steel"
+  },
+  "result": {
+    "item": "tfc_metalwork:metal/dust/tungsten_steel"
+  },
+  "conditions": [
+    {
+      "type": "forge:mod_loaded",
+      "modid": "tfc_metallum"
+    }
+  ]
+}

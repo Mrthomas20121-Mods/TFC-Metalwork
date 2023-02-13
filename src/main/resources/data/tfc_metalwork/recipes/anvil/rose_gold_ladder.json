@@ -1,0 +1,16 @@
+{
+  "type": "tfc:anvil",
+  "input": {
+    "item": "tfc_metalwork:metal/large_rod/rose_gold"
+  },
+  "result": {
+    "item": "tfc_metalwork:metal/ladder/rose_gold"
+  },
+  "tier": 1,
+  "rules": [
+    "bend_last",
+    "bend_second_last",
+    "hit_third_last"
+  ],
+  "apply_forging_bonus": false
+}

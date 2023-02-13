@@ -1,0 +1,6 @@
+{
+  "type": "tfc:chisel",
+  "ingredient": "tfc_metalwork:metal/block/tin_wall",
+  "result": "tfc_metalwork:metal/cut/tin_wall",
+  "mode": "smooth"
+}

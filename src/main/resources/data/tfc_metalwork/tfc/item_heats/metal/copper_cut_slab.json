@@ -1,0 +1,8 @@
+{
+  "ingredient": {
+    "item": "tfc_metalwork:tfc_metalwork/metal/cut/copper_slab"
+  },
+  "heat_capacity": 11.429,
+  "forging_temperature": 648,
+  "woelding_temperature": 864
+}

@@ -2,7 +2,7 @@
   "ingredient": {
     "tag": "tfc_metalwork:metal_ladders/gold"
   },
-  "heat_capacity": 6.667,
+  "heat_capacity": 11.667,
   "forging_temperature": 636,
   "woelding_temperature": 848
 }
