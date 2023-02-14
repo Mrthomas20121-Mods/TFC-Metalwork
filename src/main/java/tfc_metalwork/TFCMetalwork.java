@@ -8,7 +8,6 @@ import net.minecraftforge.fml.javafmlmod.FMLJavaModLoadingContext;
 import net.minecraftforge.fml.loading.FMLEnvironment;
 import org.slf4j.Logger;
 import tfc_metalwork.common.blocks.MetalworkBlocks;
-import tfc_metallum.common.fluids.MetallumFluids;
 import tfc_metalwork.common.items.MetallumItems;
 import tfc_metalwork.common.ClientEvents;
 
@@ -23,7 +22,6 @@ public class TFCMetalwork {
 		final IEventBus bus = FMLJavaModLoadingContext.get().getModEventBus();
 		MetalworkBlocks.BLOCKS.register(bus);
 		MetallumItems.ITEMS.register(bus);
-		MetallumFluids.FLUIDS.register(bus);
 
 		if (FMLEnvironment.dist == Dist.CLIENT) {
 			ClientEvents.init();

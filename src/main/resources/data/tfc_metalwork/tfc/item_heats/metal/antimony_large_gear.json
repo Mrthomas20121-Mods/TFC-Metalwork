@@ -2,7 +2,7 @@
   "ingredient": {
     "tag": "forge:large_gears/antimony"
   },
-  "heat_capacity": 32,
+  "heat_capacity": 24,
   "forging_temperature": 378,
   "woelding_temperature": 504
 }

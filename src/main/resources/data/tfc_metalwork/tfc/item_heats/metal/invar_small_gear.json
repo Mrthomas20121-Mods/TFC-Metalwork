@@ -2,7 +2,7 @@
   "ingredient": {
     "tag": "forge:gears/invar"
   },
-  "heat_capacity": 11.429,
+  "heat_capacity": 5.714,
   "forging_temperature": 870,
   "woelding_temperature": 1160
 }

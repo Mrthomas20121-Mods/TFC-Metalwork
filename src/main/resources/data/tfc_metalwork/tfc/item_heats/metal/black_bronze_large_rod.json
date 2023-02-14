@@ -2,7 +2,7 @@
   "ingredient": {
     "tag": "forge:large_rods/black_bronze"
   },
-  "heat_capacity": 5.714,
+  "heat_capacity": 4.286,
   "forging_temperature": 642,
   "woelding_temperature": 856
 }

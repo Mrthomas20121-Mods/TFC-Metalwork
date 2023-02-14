@@ -2,7 +2,7 @@
   "ingredient": {
     "tag": "tfc_metalwork:metal_ladders/lead"
   },
-  "heat_capacity": 31.818,
+  "heat_capacity": 9.091,
   "forging_temperature": 197,
   "woelding_temperature": 262
 }

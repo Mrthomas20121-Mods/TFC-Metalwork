@@ -2,7 +2,7 @@
   "ingredient": {
     "tag": "forge:large_gears/cobalt"
   },
-  "heat_capacity": 32,
+  "heat_capacity": 24,
   "forging_temperature": 900,
   "woelding_temperature": 1200
 }

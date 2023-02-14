@@ -2,7 +2,7 @@
   "ingredient": {
     "tag": "forge:gears/tungsten_steel"
   },
-  "heat_capacity": 20,
+  "heat_capacity": 10,
   "forging_temperature": 2214,
   "woelding_temperature": 2952
 }

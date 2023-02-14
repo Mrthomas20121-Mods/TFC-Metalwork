@@ -5,7 +5,7 @@
   },
   "result_fluid": {
     "fluid": "tfc:metal/sterling_silver",
-    "amount": 800
+    "amount": 600
   },
   "temperature": 900,
   "use_durability": false

@@ -2,7 +2,7 @@
   "ingredient": {
     "tag": "tfc_metalwork:metal_ladders/antimony"
   },
-  "heat_capacity": 28,
+  "heat_capacity": 8,
   "forging_temperature": 378,
   "woelding_temperature": 504
 }

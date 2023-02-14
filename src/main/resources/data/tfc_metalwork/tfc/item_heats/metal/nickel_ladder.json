@@ -2,7 +2,7 @@
   "ingredient": {
     "tag": "tfc_metalwork:metal_ladders/nickel"
   },
-  "heat_capacity": 14.583,
+  "heat_capacity": 4.167,
   "forging_temperature": 872,
   "woelding_temperature": 1162
 }

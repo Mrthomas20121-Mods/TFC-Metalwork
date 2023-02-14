@@ -2,7 +2,7 @@
   "ingredient": {
     "tag": "forge:large_rods/gold"
   },
-  "heat_capacity": 3.333,
+  "heat_capacity": 2.5,
   "forging_temperature": 636,
   "woelding_temperature": 848
 }

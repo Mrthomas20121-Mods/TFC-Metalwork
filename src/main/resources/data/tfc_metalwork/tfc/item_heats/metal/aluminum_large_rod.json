@@ -2,7 +2,7 @@
   "ingredient": {
     "tag": "forge:large_rods/aluminum"
   },
-  "heat_capacity": 6.667,
+  "heat_capacity": 5,
   "forging_temperature": 396,
   "woelding_temperature": 528
 }

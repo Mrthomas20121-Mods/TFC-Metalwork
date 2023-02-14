@@ -2,7 +2,7 @@
   "ingredient": {
     "tag": "tfc_metalwork:metal_ladders/tungsten_steel"
   },
-  "heat_capacity": 35,
+  "heat_capacity": 10,
   "forging_temperature": 2214,
   "woelding_temperature": 2952
 }

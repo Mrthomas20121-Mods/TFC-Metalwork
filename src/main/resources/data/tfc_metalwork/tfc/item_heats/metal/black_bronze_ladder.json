@@ -2,7 +2,7 @@
   "ingredient": {
     "tag": "tfc_metalwork:metal_ladders/black_bronze"
   },
-  "heat_capacity": 20,
+  "heat_capacity": 5.714,
   "forging_temperature": 642,
   "woelding_temperature": 856
 }

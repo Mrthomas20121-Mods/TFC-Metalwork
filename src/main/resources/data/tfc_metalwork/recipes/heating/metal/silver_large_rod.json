@@ -5,7 +5,7 @@
   },
   "result_fluid": {
     "fluid": "tfc:metal/silver",
-    "amount": 200
+    "amount": 150
   },
   "temperature": 961,
   "use_durability": false

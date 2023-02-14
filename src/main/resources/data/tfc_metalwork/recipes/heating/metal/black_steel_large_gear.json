@@ -5,7 +5,7 @@
   },
   "result_fluid": {
     "fluid": "tfc:metal/black_steel",
-    "amount": 800
+    "amount": 600
   },
   "temperature": 1485,
   "use_durability": false

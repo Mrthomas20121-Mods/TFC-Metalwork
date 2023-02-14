@@ -2,7 +2,7 @@
   "ingredient": {
     "tag": "tfc_metalwork:metal_ladders/silver"
   },
-  "heat_capacity": 14.583,
+  "heat_capacity": 4.167,
   "forging_temperature": 577,
   "woelding_temperature": 769
 }

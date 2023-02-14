@@ -2,7 +2,7 @@
   "ingredient": {
     "tag": "forge:gears/andesite_alloy"
   },
-  "heat_capacity": 16,
+  "heat_capacity": 8,
   "forging_temperature": 312,
   "woelding_temperature": 416
 }

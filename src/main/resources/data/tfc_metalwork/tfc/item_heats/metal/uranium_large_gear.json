@@ -2,7 +2,7 @@
   "ingredient": {
     "tag": "forge:large_gears/uranium"
   },
-  "heat_capacity": 22.857,
+  "heat_capacity": 17.143,
   "forging_temperature": 660,
   "woelding_temperature": 880
 }

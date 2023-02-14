@@ -2,7 +2,7 @@
   "ingredient": {
     "tag": "forge:large_rods/pink_slime"
   },
-  "heat_capacity": 5.714,
+  "heat_capacity": 4.286,
   "forging_temperature": 600,
   "woelding_temperature": 800
 }

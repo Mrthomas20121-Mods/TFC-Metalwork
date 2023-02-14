@@ -5,7 +5,7 @@
   },
   "result_fluid": {
     "fluid": "tfc_metallum:metal/mithril",
-    "amount": 800
+    "amount": 600
   },
   "temperature": 940,
   "use_durability": false

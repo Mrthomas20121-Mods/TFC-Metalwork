@@ -2,7 +2,7 @@
   "ingredient": {
     "tag": "forge:gears/mithril"
   },
-  "heat_capacity": 11.429,
+  "heat_capacity": 5.714,
   "forging_temperature": 564,
   "woelding_temperature": 752
 }

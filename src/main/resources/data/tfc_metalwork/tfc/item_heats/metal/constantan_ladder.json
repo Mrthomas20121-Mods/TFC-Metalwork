@@ -2,7 +2,7 @@
   "ingredient": {
     "tag": "tfc_metalwork:metal_ladders/constantan"
   },
-  "heat_capacity": 14,
+  "heat_capacity": 4,
   "forging_temperature": 720,
   "woelding_temperature": 960
 }

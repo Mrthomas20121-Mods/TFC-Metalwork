@@ -5,7 +5,7 @@
   },
   "result_fluid": {
     "fluid": "tfc:metal/tin",
-    "amount": 800
+    "amount": 600
   },
   "temperature": 230,
   "use_durability": false

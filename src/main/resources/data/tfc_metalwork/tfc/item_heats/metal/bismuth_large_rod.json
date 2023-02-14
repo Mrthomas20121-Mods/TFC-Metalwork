@@ -2,7 +2,7 @@
   "ingredient": {
     "tag": "forge:large_rods/bismuth"
   },
-  "heat_capacity": 14.286,
+  "heat_capacity": 10.714,
   "forging_temperature": 162,
   "woelding_temperature": 216
 }

@@ -2,7 +2,7 @@
   "ingredient": {
     "tag": "tfc_metalwork:metal_ladders/ferroboron"
   },
-  "heat_capacity": 23.333,
+  "heat_capacity": 6.667,
   "forging_temperature": 1800,
   "woelding_temperature": 2400
 }

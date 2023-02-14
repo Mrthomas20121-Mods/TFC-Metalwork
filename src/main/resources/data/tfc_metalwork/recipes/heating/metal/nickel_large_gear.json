@@ -5,7 +5,7 @@
   },
   "result_fluid": {
     "fluid": "tfc:metal/nickel",
-    "amount": 800
+    "amount": 600
   },
   "temperature": 1453,
   "use_durability": false

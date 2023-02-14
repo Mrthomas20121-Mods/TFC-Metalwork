@@ -5,7 +5,7 @@
   },
   "result_fluid": {
     "fluid": "tfc_metallum:metal/compressed_iron",
-    "amount": 800
+    "amount": 600
   },
   "temperature": 1535,
   "use_durability": false

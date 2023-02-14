@@ -2,7 +2,7 @@
   "ingredient": {
     "tag": "forge:gears/tin"
   },
-  "heat_capacity": 28.571,
+  "heat_capacity": 14.286,
   "forging_temperature": 138,
   "woelding_temperature": 184
 }

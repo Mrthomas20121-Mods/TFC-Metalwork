@@ -2,7 +2,7 @@
   "ingredient": {
     "tag": "tfc_metalwork:metal_ladders/aluminum"
   },
-  "heat_capacity": 23.333,
+  "heat_capacity": 6.667,
   "forging_temperature": 396,
   "woelding_temperature": 528
 }

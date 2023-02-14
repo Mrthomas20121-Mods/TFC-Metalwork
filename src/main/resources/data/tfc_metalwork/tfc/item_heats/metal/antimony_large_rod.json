@@ -2,7 +2,7 @@
   "ingredient": {
     "tag": "forge:large_rods/antimony"
   },
-  "heat_capacity": 8,
+  "heat_capacity": 6,
   "forging_temperature": 378,
   "woelding_temperature": 504
 }

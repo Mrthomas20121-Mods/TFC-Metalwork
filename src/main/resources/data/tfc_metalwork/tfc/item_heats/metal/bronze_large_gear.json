@@ -2,7 +2,7 @@
   "ingredient": {
     "tag": "forge:large_gears/bronze"
   },
-  "heat_capacity": 22.857,
+  "heat_capacity": 17.143,
   "forging_temperature": 570,
   "woelding_temperature": 760
 }

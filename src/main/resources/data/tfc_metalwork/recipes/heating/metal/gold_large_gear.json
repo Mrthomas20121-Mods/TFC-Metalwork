@@ -5,7 +5,7 @@
   },
   "result_fluid": {
     "fluid": "tfc:metal/gold",
-    "amount": 800
+    "amount": 600
   },
   "temperature": 1060,
   "use_durability": false

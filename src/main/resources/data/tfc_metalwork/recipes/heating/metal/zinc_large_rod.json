@@ -5,7 +5,7 @@
   },
   "result_fluid": {
     "fluid": "tfc:metal/zinc",
-    "amount": 200
+    "amount": 150
   },
   "temperature": 420,
   "use_durability": false

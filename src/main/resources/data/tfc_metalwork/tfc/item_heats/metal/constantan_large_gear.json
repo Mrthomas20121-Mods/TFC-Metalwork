@@ -2,7 +2,7 @@
   "ingredient": {
     "tag": "forge:large_gears/constantan"
   },
-  "heat_capacity": 16,
+  "heat_capacity": 12,
   "forging_temperature": 720,
   "woelding_temperature": 960
 }

@@ -5,7 +5,7 @@
   },
   "result_fluid": {
     "fluid": "tfc_metallum:metal/constantan",
-    "amount": 800
+    "amount": 600
   },
   "temperature": 1200,
   "use_durability": false

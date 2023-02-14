@@ -2,7 +2,7 @@
   "ingredient": {
     "tag": "forge:large_gears/beryllium"
   },
-  "heat_capacity": 22.857,
+  "heat_capacity": 17.143,
   "forging_temperature": 720,
   "woelding_temperature": 960
 }

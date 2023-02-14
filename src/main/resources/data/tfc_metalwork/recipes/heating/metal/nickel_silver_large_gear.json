@@ -5,7 +5,7 @@
   },
   "result_fluid": {
     "fluid": "tfc_metallum:metal/nickel_silver",
-    "amount": 800
+    "amount": 600
   },
   "temperature": 1450,
   "use_durability": false
