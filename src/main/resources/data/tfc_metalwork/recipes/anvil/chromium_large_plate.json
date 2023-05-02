@@ -1,7 +1,7 @@
 {
   "type": "tfc:anvil",
   "input": {
-    "item": "firmalife:metal/double_ingot/chromium"
+    "item": "firmalife:metal/double_sheet/chromium"
   },
   "result": {
     "item": "tfc_metalwork:metal/large_plate/chromium"

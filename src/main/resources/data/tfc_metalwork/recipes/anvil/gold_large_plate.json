@@ -1,7 +1,7 @@
 {
   "type": "tfc:anvil",
   "input": {
-    "item": "tfc:metal/double_ingot/gold"
+    "item": "tfc:metal/double_sheet/gold"
   },
   "result": {
     "item": "tfc_metalwork:metal/large_plate/gold"

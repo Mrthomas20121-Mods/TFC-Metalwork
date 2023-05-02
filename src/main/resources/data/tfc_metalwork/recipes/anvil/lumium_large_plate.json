@@ -1,7 +1,7 @@
 {
   "type": "tfc:anvil",
   "input": {
-    "item": "tfc_metallum:metal/double_ingot/lumium"
+    "item": "tfc_metallum:metal/double_sheet/lumium"
   },
   "result": {
     "item": "tfc_metalwork:metal/large_plate/lumium"

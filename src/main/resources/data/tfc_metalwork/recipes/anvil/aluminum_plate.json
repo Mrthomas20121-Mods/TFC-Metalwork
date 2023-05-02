@@ -1,7 +1,7 @@
 {
   "type": "tfc:anvil",
   "input": {
-    "item": "tfc_metallum:metal/ingot/aluminum"
+    "item": "tfc_metallum:metal/sheet/aluminum"
   },
   "result": {
     "item": "tfc_metalwork:metal/plate/aluminum"

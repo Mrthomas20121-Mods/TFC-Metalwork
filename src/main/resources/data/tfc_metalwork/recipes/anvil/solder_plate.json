@@ -1,7 +1,7 @@
 {
   "type": "tfc:anvil",
   "input": {
-    "item": "tfc_metallum:metal/ingot/solder"
+    "item": "tfc_metallum:metal/sheet/solder"
   },
   "result": {
     "item": "tfc_metalwork:metal/plate/solder"

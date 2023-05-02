@@ -1,7 +1,7 @@
 {
   "type": "tfc:anvil",
   "input": {
-    "item": "firmalife:metal/double_ingot/stainless_steel"
+    "item": "firmalife:metal/double_sheet/stainless_steel"
   },
   "result": {
     "item": "tfc_metalwork:metal/large_plate/stainless_steel"

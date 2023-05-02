@@ -1,7 +1,7 @@
 {
   "type": "tfc:anvil",
   "input": {
-    "item": "tfc:metal/ingot/zinc"
+    "item": "tfc:metal/sheet/zinc"
   },
   "result": {
     "item": "tfc_metalwork:metal/plate/zinc"

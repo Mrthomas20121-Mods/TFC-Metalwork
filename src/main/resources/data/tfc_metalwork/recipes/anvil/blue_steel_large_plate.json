@@ -1,7 +1,7 @@
 {
   "type": "tfc:anvil",
   "input": {
-    "item": "tfc:metal/double_ingot/blue_steel"
+    "item": "tfc:metal/double_sheet/blue_steel"
   },
   "result": {
     "item": "tfc_metalwork:metal/large_plate/blue_steel"

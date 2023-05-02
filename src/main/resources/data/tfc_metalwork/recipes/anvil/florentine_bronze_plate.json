@@ -1,7 +1,7 @@
 {
   "type": "tfc:anvil",
   "input": {
-    "item": "tfc_metallum:metal/ingot/florentine_bronze"
+    "item": "tfc_metallum:metal/sheet/florentine_bronze"
   },
   "result": {
     "item": "tfc_metalwork:metal/plate/florentine_bronze"

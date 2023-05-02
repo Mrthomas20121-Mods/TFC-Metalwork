@@ -1,7 +1,7 @@
 {
   "type": "tfc:anvil",
   "input": {
-    "item": "tfc_metallum:metal/double_ingot/refined_glowstone"
+    "item": "tfc_metallum:metal/double_sheet/refined_glowstone"
   },
   "result": {
     "item": "tfc_metalwork:metal/large_plate/refined_glowstone"

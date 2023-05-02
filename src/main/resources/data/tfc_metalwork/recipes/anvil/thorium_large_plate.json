@@ -1,7 +1,7 @@
 {
   "type": "tfc:anvil",
   "input": {
-    "item": "tfc_metallum:metal/double_ingot/thorium"
+    "item": "tfc_metallum:metal/double_sheet/thorium"
   },
   "result": {
     "item": "tfc_metalwork:metal/large_plate/thorium"

@@ -1,7 +1,7 @@
 {
   "type": "tfc:anvil",
   "input": {
-    "item": "tfc:metal/double_ingot/copper"
+    "item": "tfc:metal/double_sheet/copper"
   },
   "result": {
     "item": "tfc_metalwork:metal/large_plate/copper"

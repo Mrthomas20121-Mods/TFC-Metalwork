@@ -1,7 +1,7 @@
 {
   "type": "tfc:anvil",
   "input": {
-    "item": "tfc_metallum:metal/ingot/alnico"
+    "item": "tfc_metallum:metal/sheet/alnico"
   },
   "result": {
     "item": "tfc_metalwork:metal/plate/alnico"

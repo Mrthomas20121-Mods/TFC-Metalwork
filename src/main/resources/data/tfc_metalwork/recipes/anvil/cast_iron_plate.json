@@ -1,7 +1,7 @@
 {
   "type": "tfc:anvil",
   "input": {
-    "item": "tfc:metal/ingot/cast_iron"
+    "item": "tfc:metal/sheet/cast_iron"
   },
   "result": {
     "item": "tfc_metalwork:metal/plate/cast_iron"

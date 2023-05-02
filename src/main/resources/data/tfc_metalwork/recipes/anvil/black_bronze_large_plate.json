@@ -1,7 +1,7 @@
 {
   "type": "tfc:anvil",
   "input": {
-    "item": "tfc:metal/double_ingot/black_bronze"
+    "item": "tfc:metal/double_sheet/black_bronze"
   },
   "result": {
     "item": "tfc_metalwork:metal/large_plate/black_bronze"

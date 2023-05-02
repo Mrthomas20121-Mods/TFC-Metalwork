@@ -1,7 +1,7 @@
 {
   "type": "tfc:anvil",
   "input": {
-    "item": "tfc_metallum:metal/ingot/andesite_alloy"
+    "item": "tfc_metallum:metal/sheet/andesite_alloy"
   },
   "result": {
     "item": "tfc_metalwork:metal/plate/andesite_alloy"

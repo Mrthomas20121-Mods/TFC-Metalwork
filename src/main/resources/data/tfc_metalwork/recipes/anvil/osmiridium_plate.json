@@ -1,7 +1,7 @@
 {
   "type": "tfc:anvil",
   "input": {
-    "item": "tfc_metallum:metal/ingot/osmiridium"
+    "item": "tfc_metallum:metal/sheet/osmiridium"
   },
   "result": {
     "item": "tfc_metalwork:metal/plate/osmiridium"

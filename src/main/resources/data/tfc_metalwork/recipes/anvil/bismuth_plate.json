@@ -1,7 +1,7 @@
 {
   "type": "tfc:anvil",
   "input": {
-    "item": "tfc:metal/ingot/bismuth"
+    "item": "tfc:metal/sheet/bismuth"
   },
   "result": {
     "item": "tfc_metalwork:metal/plate/bismuth"

@@ -1,7 +1,7 @@
 {
   "type": "tfc:anvil",
   "input": {
-    "item": "tfc_metallum:metal/double_ingot/titanium"
+    "item": "tfc_metallum:metal/double_sheet/titanium"
   },
   "result": {
     "item": "tfc_metalwork:metal/large_plate/titanium"

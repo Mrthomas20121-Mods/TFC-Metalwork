@@ -1,7 +1,7 @@
 {
   "type": "tfc:anvil",
   "input": {
-    "item": "tfc:metal/ingot/sterling_silver"
+    "item": "tfc:metal/sheet/sterling_silver"
   },
   "result": {
     "item": "tfc_metalwork:metal/plate/sterling_silver"

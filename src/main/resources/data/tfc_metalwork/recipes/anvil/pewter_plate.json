@@ -1,7 +1,7 @@
 {
   "type": "tfc:anvil",
   "input": {
-    "item": "tfc_metallum:metal/ingot/pewter"
+    "item": "tfc_metallum:metal/sheet/pewter"
   },
   "result": {
     "item": "tfc_metalwork:metal/plate/pewter"

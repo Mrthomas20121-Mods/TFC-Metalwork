@@ -1,7 +1,7 @@
 {
   "type": "tfc:anvil",
   "input": {
-    "item": "tfc:metal/ingot/red_steel"
+    "item": "tfc:metal/sheet/red_steel"
   },
   "result": {
     "item": "tfc_metalwork:metal/plate/red_steel"

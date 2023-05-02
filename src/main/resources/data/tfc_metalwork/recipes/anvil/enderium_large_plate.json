@@ -1,7 +1,7 @@
 {
   "type": "tfc:anvil",
   "input": {
-    "item": "tfc_metallum:metal/double_ingot/enderium"
+    "item": "tfc_metallum:metal/double_sheet/enderium"
   },
   "result": {
     "item": "tfc_metalwork:metal/large_plate/enderium"

@@ -1,7 +1,7 @@
 {
   "type": "tfc:anvil",
   "input": {
-    "item": "tfc:metal/double_ingot/brass"
+    "item": "tfc:metal/double_sheet/brass"
   },
   "result": {
     "item": "tfc_metalwork:metal/large_plate/brass"

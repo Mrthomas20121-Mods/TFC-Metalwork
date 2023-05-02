@@ -1,7 +1,7 @@
 {
   "type": "tfc:anvil",
   "input": {
-    "item": "tfc_metallum:metal/double_ingot/cobalt"
+    "item": "tfc_metallum:metal/double_sheet/cobalt"
   },
   "result": {
     "item": "tfc_metalwork:metal/large_plate/cobalt"

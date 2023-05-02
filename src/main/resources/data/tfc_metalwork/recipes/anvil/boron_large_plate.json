@@ -1,7 +1,7 @@
 {
   "type": "tfc:anvil",
   "input": {
-    "item": "tfc_metallum:metal/double_ingot/boron"
+    "item": "tfc_metallum:metal/double_sheet/boron"
   },
   "result": {
     "item": "tfc_metalwork:metal/large_plate/boron"

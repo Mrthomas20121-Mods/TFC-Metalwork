@@ -1,7 +1,7 @@
 {
   "type": "tfc:anvil",
   "input": {
-    "item": "tfc_metallum:metal/ingot/uranium"
+    "item": "tfc_metallum:metal/sheet/uranium"
   },
   "result": {
     "item": "tfc_metalwork:metal/plate/uranium"

@@ -1,7 +1,7 @@
 {
   "type": "tfc:anvil",
   "input": {
-    "item": "tfc:metal/ingot/tin"
+    "item": "tfc:metal/sheet/tin"
   },
   "result": {
     "item": "tfc_metalwork:metal/plate/tin"

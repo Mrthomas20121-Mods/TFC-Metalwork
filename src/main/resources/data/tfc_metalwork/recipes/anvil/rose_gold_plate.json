@@ -1,7 +1,7 @@
 {
   "type": "tfc:anvil",
   "input": {
-    "item": "tfc:metal/ingot/rose_gold"
+    "item": "tfc:metal/sheet/rose_gold"
   },
   "result": {
     "item": "tfc_metalwork:metal/plate/rose_gold"
