@@ -24,7 +24,7 @@ public interface OxidableBlock extends IForgeBlockExtension, EntityBlockExtensio
     default void onRandomTick(ServerLevel level, BlockPos pos, BlockState placeState) {
         level.getBlockEntity(pos, TFCMetalworkBlockEntities.TICK_COUNTER.get()).ifPresent((block) -> {
             int blockTicks = TFCMetalworkConfig.SERVER.blockTicks.get();
-            if (block.getTicksSinceUpdate() > (long)blockTicks && blockTicks > 0) {
+            if (block.getTicksSinceUpdate() > blockTicks && blockTicks > 0) {
                 level.setBlockAndUpdate(pos, placeState);
             }
         });
