@@ -2,7 +2,7 @@
   "ingredient": {
     "tag": "forge:plates/osmium"
   },
-  "heat_capacity": 5.714,
+  "heat_capacity": 2.857,
   "forging_temperature": 1815,
-  "woelding_temperature": 2420
+  "welding_temperature": 2420
 }

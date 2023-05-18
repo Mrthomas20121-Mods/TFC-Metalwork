@@ -1,0 +1,8 @@
+{
+  "parent": "block/slab",
+  "textures": {
+    "bottom": "tfc_metalwork:block/metal/oxidized/signalum",
+    "top": "tfc_metalwork:block/metal/oxidized/signalum",
+    "side": "tfc_metalwork:block/metal/oxidized/signalum"
+  }
+}

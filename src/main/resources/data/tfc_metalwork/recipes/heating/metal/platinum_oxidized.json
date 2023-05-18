@@ -1,0 +1,12 @@
+{
+  "type": "tfc:heating",
+  "ingredient": {
+    "tag": "forge:storage_blocks/platinum"
+  },
+  "result_fluid": {
+    "fluid": "tfc_metallum:metal/platinum",
+    "amount": 400
+  },
+  "temperature": 1730,
+  "use_durability": false
+}

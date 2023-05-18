@@ -1,0 +1,12 @@
+{
+  "type": "tfc:heating",
+  "ingredient": {
+    "tag": "tfc_metalwork:cut/stainless_steel"
+  },
+  "result_fluid": {
+    "fluid": "firmalife:metal/stainless_steel",
+    "amount": 400
+  },
+  "temperature": 1540,
+  "use_durability": false
+}

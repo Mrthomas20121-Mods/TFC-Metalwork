@@ -1,0 +1,8 @@
+{
+  "ingredient": {
+    "item": "tfc_metalwork:tfc_metalwork/metal/oxidized/bismuth_stairs"
+  },
+  "heat_capacity": 28.571,
+  "forging_temperature": 162,
+  "welding_temperature": 216
+}

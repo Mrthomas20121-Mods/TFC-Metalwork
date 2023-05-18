@@ -1,0 +1,8 @@
+{
+  "ingredient": {
+    "item": "tfc_metalwork:tfc_metalwork/metal/oxidized/cobalt_stairs"
+  },
+  "heat_capacity": 16,
+  "forging_temperature": 900,
+  "welding_temperature": 1200
+}

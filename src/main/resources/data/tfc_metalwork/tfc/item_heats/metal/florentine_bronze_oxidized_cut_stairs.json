@@ -1,0 +1,8 @@
+{
+  "ingredient": {
+    "item": "tfc_metalwork:tfc_metalwork/metal/oxidized_cut/florentine_bronze_stairs"
+  },
+  "heat_capacity": 11.429,
+  "forging_temperature": 240,
+  "welding_temperature": 320
+}

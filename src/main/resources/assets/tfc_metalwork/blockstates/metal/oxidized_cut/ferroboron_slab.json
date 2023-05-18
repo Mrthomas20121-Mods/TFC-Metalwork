@@ -1,0 +1,13 @@
+{
+  "variants": {
+    "type=bottom": {
+      "model": "tfc_metalwork:block/metal/oxidized_cut/ferroboron_slab"
+    },
+    "type=top": {
+      "model": "tfc_metalwork:block/metal/oxidized_cut/ferroboron_slab_top"
+    },
+    "type=double": {
+      "model": "tfc_metalwork:block/metal/oxidized_cut/ferroboron"
+    }
+  }
+}

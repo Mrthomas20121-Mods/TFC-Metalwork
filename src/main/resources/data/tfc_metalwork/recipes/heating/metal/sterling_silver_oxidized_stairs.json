@@ -1,0 +1,12 @@
+{
+  "type": "tfc:heating",
+  "ingredient": {
+    "item": "tfc_metalwork/metal/oxidized/sterling_silver_stairs"
+  },
+  "result_fluid": {
+    "fluid": "tfc:metal/sterling_silver",
+    "amount": 400
+  },
+  "temperature": 900,
+  "use_durability": false
+}

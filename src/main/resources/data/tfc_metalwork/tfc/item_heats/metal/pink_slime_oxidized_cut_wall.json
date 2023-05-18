@@ -1,0 +1,8 @@
+{
+  "ingredient": {
+    "item": "tfc_metalwork:tfc_metalwork/metal/oxidized_cut/pink_slime_wall"
+  },
+  "heat_capacity": 11.429,
+  "forging_temperature": 600,
+  "welding_temperature": 800
+}

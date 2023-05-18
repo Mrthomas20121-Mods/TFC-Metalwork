@@ -1,6 +1,7 @@
 {
   "replace": false,
   "values": [
-    "tfc_metalwork:metal/block/ferroboron"
+    "tfc_metalwork:metal/block/ferroboron",
+    "tfc_metalwork:metal/oxidized/ferroboron"
   ]
 }

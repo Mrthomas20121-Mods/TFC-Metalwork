@@ -1,6 +1,7 @@
 {
   "replace": false,
   "values": [
-    "tfc_metalwork:metal/block/iridium"
+    "tfc_metalwork:metal/block/iridium",
+    "tfc_metalwork:metal/oxidized/iridium"
   ]
 }

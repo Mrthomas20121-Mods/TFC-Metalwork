@@ -1,0 +1,8 @@
+{
+  "ingredient": {
+    "item": "tfc_metalwork:tfc_metalwork/metal/oxidized/zinc_slab"
+  },
+  "heat_capacity": 19.048,
+  "forging_temperature": 252,
+  "welding_temperature": 336
+}

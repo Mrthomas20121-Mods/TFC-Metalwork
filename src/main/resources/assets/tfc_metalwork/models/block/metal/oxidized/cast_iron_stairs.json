@@ -1,0 +1,8 @@
+{
+  "parent": "block/stairs",
+  "textures": {
+    "bottom": "tfc_metalwork:block/metal/oxidized/cast_iron",
+    "top": "tfc_metalwork:block/metal/oxidized/cast_iron",
+    "side": "tfc_metalwork:block/metal/oxidized/cast_iron"
+  }
+}

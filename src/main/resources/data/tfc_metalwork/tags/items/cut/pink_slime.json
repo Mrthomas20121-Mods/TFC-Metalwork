@@ -1,6 +1,7 @@
 {
   "replace": false,
   "values": [
-    "tfc_metalwork:metal/cut/pink_slime"
+    "tfc_metalwork:metal/cut/pink_slime",
+    "tfc_metalwork:metal/oxidized_cut/pink_slime"
   ]
 }

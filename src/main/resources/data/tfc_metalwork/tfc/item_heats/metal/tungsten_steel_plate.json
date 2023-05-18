@@ -2,7 +2,7 @@
   "ingredient": {
     "tag": "forge:plates/tungsten_steel"
   },
-  "heat_capacity": 10,
+  "heat_capacity": 5,
   "forging_temperature": 2214,
-  "woelding_temperature": 2952
+  "welding_temperature": 2952
 }

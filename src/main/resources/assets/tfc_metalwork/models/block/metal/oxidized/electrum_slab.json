@@ -1,0 +1,8 @@
+{
+  "parent": "block/slab",
+  "textures": {
+    "bottom": "tfc_metalwork:block/metal/oxidized/electrum",
+    "top": "tfc_metalwork:block/metal/oxidized/electrum",
+    "side": "tfc_metalwork:block/metal/oxidized/electrum"
+  }
+}

@@ -1,0 +1,8 @@
+{
+  "ingredient": {
+    "item": "tfc_metalwork:tfc_metalwork/metal/oxidized/nickel_wall"
+  },
+  "heat_capacity": 8.333,
+  "forging_temperature": 872,
+  "welding_temperature": 1162
+}

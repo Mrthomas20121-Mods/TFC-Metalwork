@@ -1,0 +1,8 @@
+{
+  "parent": "block/stairs",
+  "textures": {
+    "bottom": "tfc_metalwork:block/metal/oxidized/refined_glowstone",
+    "top": "tfc_metalwork:block/metal/oxidized/refined_glowstone",
+    "side": "tfc_metalwork:block/metal/oxidized/refined_glowstone"
+  }
+}

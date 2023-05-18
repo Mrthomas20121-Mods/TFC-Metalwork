@@ -1,0 +1,12 @@
+{
+  "type": "tfc:heating",
+  "ingredient": {
+    "tag": "tfc_metalwork:cut/gold"
+  },
+  "result_fluid": {
+    "fluid": "tfc:metal/gold",
+    "amount": 400
+  },
+  "temperature": 1060,
+  "use_durability": false
+}

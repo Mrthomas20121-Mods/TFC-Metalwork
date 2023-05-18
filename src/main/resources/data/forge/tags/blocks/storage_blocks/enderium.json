@@ -1,6 +1,7 @@
 {
   "replace": false,
   "values": [
-    "tfc_metalwork:metal/block/enderium"
+    "tfc_metalwork:metal/block/enderium",
+    "tfc_metalwork:metal/oxidized/enderium"
   ]
 }

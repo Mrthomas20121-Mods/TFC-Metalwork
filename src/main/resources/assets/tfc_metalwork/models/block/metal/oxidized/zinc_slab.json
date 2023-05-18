@@ -1,0 +1,8 @@
+{
+  "parent": "block/slab",
+  "textures": {
+    "bottom": "tfc_metalwork:block/metal/oxidized/zinc",
+    "top": "tfc_metalwork:block/metal/oxidized/zinc",
+    "side": "tfc_metalwork:block/metal/oxidized/zinc"
+  }
+}

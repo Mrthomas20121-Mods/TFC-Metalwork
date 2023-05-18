@@ -1,0 +1,8 @@
+{
+  "ingredient": {
+    "item": "tfc_metalwork:tfc_metalwork/metal/oxidized/antimony_stairs"
+  },
+  "heat_capacity": 16,
+  "forging_temperature": 378,
+  "welding_temperature": 504
+}

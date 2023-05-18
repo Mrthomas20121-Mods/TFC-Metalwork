@@ -1,6 +1,7 @@
 {
   "replace": false,
   "values": [
-    "tfc_metalwork:metal/cut/rose_gold"
+    "tfc_metalwork:metal/cut/rose_gold",
+    "tfc_metalwork:metal/oxidized_cut/rose_gold"
   ]
 }

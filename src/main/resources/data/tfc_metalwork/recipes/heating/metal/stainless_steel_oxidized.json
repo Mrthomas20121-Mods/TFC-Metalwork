@@ -1,0 +1,12 @@
+{
+  "type": "tfc:heating",
+  "ingredient": {
+    "tag": "forge:storage_blocks/stainless_steel"
+  },
+  "result_fluid": {
+    "fluid": "firmalife:metal/stainless_steel",
+    "amount": 400
+  },
+  "temperature": 1540,
+  "use_durability": false
+}

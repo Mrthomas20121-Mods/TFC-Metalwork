@@ -5,7 +5,7 @@
   },
   "result_fluid": {
     "fluid": "tfc_metallum:metal/tungsten_steel",
-    "amount": 400
+    "amount": 200
   },
   "temperature": 3690,
   "use_durability": false

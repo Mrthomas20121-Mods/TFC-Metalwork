@@ -1,0 +1,8 @@
+{
+  "ingredient": {
+    "item": "tfc_metalwork:tfc_metalwork/metal/oxidized_cut/andesite_alloy_slab"
+  },
+  "heat_capacity": 16,
+  "forging_temperature": 312,
+  "welding_temperature": 416
+}

@@ -1,0 +1,13 @@
+{
+  "variants": {
+    "type=bottom": {
+      "model": "tfc_metalwork:block/metal/oxidized_cut/sterling_silver_slab"
+    },
+    "type=top": {
+      "model": "tfc_metalwork:block/metal/oxidized_cut/sterling_silver_slab_top"
+    },
+    "type=double": {
+      "model": "tfc_metalwork:block/metal/oxidized_cut/sterling_silver"
+    }
+  }
+}

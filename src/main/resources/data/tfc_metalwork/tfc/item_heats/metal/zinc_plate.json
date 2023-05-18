@@ -2,7 +2,7 @@
   "ingredient": {
     "tag": "forge:plates/zinc"
   },
-  "heat_capacity": 9.524,
+  "heat_capacity": 4.762,
   "forging_temperature": 252,
-  "woelding_temperature": 336
+  "welding_temperature": 336
 }

@@ -1,0 +1,12 @@
+{
+  "type": "tfc:heating",
+  "ingredient": {
+    "tag": "forge:storage_blocks/beryllium"
+  },
+  "result_fluid": {
+    "fluid": "tfc_metallum:metal/beryllium",
+    "amount": 400
+  },
+  "temperature": 1200,
+  "use_durability": false
+}

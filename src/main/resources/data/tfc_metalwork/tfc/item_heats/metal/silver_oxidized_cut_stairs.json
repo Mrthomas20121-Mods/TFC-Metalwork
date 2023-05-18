@@ -1,0 +1,8 @@
+{
+  "ingredient": {
+    "item": "tfc_metalwork:tfc_metalwork/metal/oxidized_cut/silver_stairs"
+  },
+  "heat_capacity": 8.333,
+  "forging_temperature": 577,
+  "welding_temperature": 769
+}

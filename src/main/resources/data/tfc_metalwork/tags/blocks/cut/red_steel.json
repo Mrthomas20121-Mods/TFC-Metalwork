@@ -1,6 +1,7 @@
 {
   "replace": false,
   "values": [
-    "tfc_metalwork:metal/cut/red_steel"
+    "tfc_metalwork:metal/cut/red_steel",
+    "tfc_metalwork:metal/oxidized_cut/red_steel"
   ]
 }

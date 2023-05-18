@@ -1,6 +1,7 @@
 {
   "replace": false,
   "values": [
-    "tfc_metalwork:metal/block/beryllium_copper"
+    "tfc_metalwork:metal/block/beryllium_copper",
+    "tfc_metalwork:metal/oxidized/beryllium_copper"
   ]
 }

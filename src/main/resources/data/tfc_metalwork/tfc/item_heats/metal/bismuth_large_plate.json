@@ -2,7 +2,7 @@
   "ingredient": {
     "tag": "forge:large_plates/bismuth"
   },
-  "heat_capacity": 28.571,
+  "heat_capacity": 14.286,
   "forging_temperature": 162,
-  "woelding_temperature": 216
+  "welding_temperature": 216
 }

@@ -1,0 +1,12 @@
+{
+  "type": "tfc:heating",
+  "ingredient": {
+    "item": "tfc_metalwork/metal/oxidized_cut/bismuth_bronze_wall"
+  },
+  "result_fluid": {
+    "fluid": "tfc:metal/bismuth_bronze",
+    "amount": 400
+  },
+  "temperature": 985,
+  "use_durability": false
+}

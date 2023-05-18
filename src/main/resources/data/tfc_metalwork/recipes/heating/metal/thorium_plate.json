@@ -5,7 +5,7 @@
   },
   "result_fluid": {
     "fluid": "tfc_metallum:metal/thorium",
-    "amount": 200
+    "amount": 100
   },
   "temperature": 1750,
   "use_durability": false

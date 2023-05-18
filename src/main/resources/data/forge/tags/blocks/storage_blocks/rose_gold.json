@@ -1,6 +1,7 @@
 {
   "replace": false,
   "values": [
-    "tfc_metalwork:metal/block/rose_gold"
+    "tfc_metalwork:metal/block/rose_gold",
+    "tfc_metalwork:metal/oxidized/rose_gold"
   ]
 }

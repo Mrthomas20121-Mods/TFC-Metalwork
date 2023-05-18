@@ -2,7 +2,7 @@
   "ingredient": {
     "tag": "forge:plates/lead"
   },
-  "heat_capacity": 9.091,
+  "heat_capacity": 4.545,
   "forging_temperature": 197,
-  "woelding_temperature": 262
+  "welding_temperature": 262
 }

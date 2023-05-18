@@ -1,0 +1,12 @@
+{
+  "type": "tfc:heating",
+  "ingredient": {
+    "item": "tfc_metalwork/metal/oxidized_cut/zinc_wall"
+  },
+  "result_fluid": {
+    "fluid": "tfc:metal/zinc",
+    "amount": 400
+  },
+  "temperature": 420,
+  "use_durability": false
+}

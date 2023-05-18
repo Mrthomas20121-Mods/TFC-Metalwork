@@ -2,7 +2,7 @@
   "ingredient": {
     "tag": "forge:plates/antimony"
   },
-  "heat_capacity": 8,
+  "heat_capacity": 4,
   "forging_temperature": 378,
-  "woelding_temperature": 504
+  "welding_temperature": 504
 }

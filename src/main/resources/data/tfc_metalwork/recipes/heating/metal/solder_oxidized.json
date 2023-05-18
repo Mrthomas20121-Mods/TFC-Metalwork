@@ -1,0 +1,12 @@
+{
+  "type": "tfc:heating",
+  "ingredient": {
+    "tag": "forge:storage_blocks/solder"
+  },
+  "result_fluid": {
+    "fluid": "tfc_metallum:metal/solder",
+    "amount": 400
+  },
+  "temperature": 400,
+  "use_durability": false
+}

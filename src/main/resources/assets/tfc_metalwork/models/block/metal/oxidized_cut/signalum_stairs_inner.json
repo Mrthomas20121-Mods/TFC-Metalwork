@@ -1,0 +1,8 @@
+{
+  "parent": "block/inner_stairs",
+  "textures": {
+    "bottom": "tfc_metalwork:block/metal/oxidized_cut/signalum",
+    "top": "tfc_metalwork:block/metal/oxidized_cut/signalum",
+    "side": "tfc_metalwork:block/metal/oxidized_cut/signalum"
+  }
+}

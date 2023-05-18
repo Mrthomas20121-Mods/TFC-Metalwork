@@ -1,6 +1,7 @@
 {
   "replace": false,
   "values": [
-    "tfc_metalwork:metal/block/compressed_iron"
+    "tfc_metalwork:metal/block/compressed_iron",
+    "tfc_metalwork:metal/oxidized/compressed_iron"
   ]
 }

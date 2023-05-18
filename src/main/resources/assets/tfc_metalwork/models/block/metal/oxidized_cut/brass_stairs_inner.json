@@ -1,0 +1,8 @@
+{
+  "parent": "block/inner_stairs",
+  "textures": {
+    "bottom": "tfc_metalwork:block/metal/oxidized_cut/brass",
+    "top": "tfc_metalwork:block/metal/oxidized_cut/brass",
+    "side": "tfc_metalwork:block/metal/oxidized_cut/brass"
+  }
+}

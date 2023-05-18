@@ -1,0 +1,12 @@
+{
+  "type": "tfc:heating",
+  "ingredient": {
+    "item": "tfc_metalwork/metal/oxidized_cut/chromium_slab"
+  },
+  "result_fluid": {
+    "fluid": "firmalife:metal/chromium",
+    "amount": 400
+  },
+  "temperature": 1250,
+  "use_durability": false
+}

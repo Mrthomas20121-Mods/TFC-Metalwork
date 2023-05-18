@@ -1,0 +1,8 @@
+{
+  "parent": "block/outer_stairs",
+  "textures": {
+    "bottom": "tfc_metalwork:block/metal/oxidized_cut/alnico",
+    "top": "tfc_metalwork:block/metal/oxidized_cut/alnico",
+    "side": "tfc_metalwork:block/metal/oxidized_cut/alnico"
+  }
+}

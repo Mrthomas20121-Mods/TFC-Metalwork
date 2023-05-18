@@ -2,7 +2,7 @@
   "ingredient": {
     "tag": "forge:plates/andesite_alloy"
   },
-  "heat_capacity": 8,
+  "heat_capacity": 4,
   "forging_temperature": 312,
-  "woelding_temperature": 416
+  "welding_temperature": 416
 }

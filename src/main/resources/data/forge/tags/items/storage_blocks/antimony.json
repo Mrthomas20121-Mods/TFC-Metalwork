@@ -1,6 +1,7 @@
 {
   "replace": false,
   "values": [
-    "tfc_metalwork:metal/block/antimony"
+    "tfc_metalwork:metal/block/antimony",
+    "tfc_metalwork:metal/oxidized/antimony"
   ]
 }

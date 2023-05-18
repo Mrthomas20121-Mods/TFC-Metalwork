@@ -1,6 +1,7 @@
 {
   "replace": false,
   "values": [
-    "tfc_metalwork:metal/block/refined_obsidian"
+    "tfc_metalwork:metal/block/refined_obsidian",
+    "tfc_metalwork:metal/oxidized/refined_obsidian"
   ]
 }

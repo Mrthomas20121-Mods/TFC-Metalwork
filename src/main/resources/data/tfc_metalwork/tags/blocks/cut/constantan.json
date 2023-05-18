@@ -1,6 +1,7 @@
 {
   "replace": false,
   "values": [
-    "tfc_metalwork:metal/cut/constantan"
+    "tfc_metalwork:metal/cut/constantan",
+    "tfc_metalwork:metal/oxidized_cut/constantan"
   ]
 }

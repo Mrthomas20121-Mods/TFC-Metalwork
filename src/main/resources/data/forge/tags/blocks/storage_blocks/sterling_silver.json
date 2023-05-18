@@ -1,6 +1,7 @@
 {
   "replace": false,
   "values": [
-    "tfc_metalwork:metal/block/sterling_silver"
+    "tfc_metalwork:metal/block/sterling_silver",
+    "tfc_metalwork:metal/oxidized/sterling_silver"
   ]
 }

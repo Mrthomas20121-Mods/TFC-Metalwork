@@ -1,6 +1,7 @@
 {
   "replace": false,
   "values": [
-    "tfc_metalwork:metal/cut/black_bronze"
+    "tfc_metalwork:metal/cut/black_bronze",
+    "tfc_metalwork:metal/oxidized_cut/black_bronze"
   ]
 }

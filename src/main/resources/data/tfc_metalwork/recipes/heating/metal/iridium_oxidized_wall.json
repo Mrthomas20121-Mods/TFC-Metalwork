@@ -1,0 +1,12 @@
+{
+  "type": "tfc:heating",
+  "ingredient": {
+    "item": "tfc_metalwork/metal/oxidized/iridium_wall"
+  },
+  "result_fluid": {
+    "fluid": "tfc_metallum:metal/iridium",
+    "amount": 400
+  },
+  "temperature": 2490,
+  "use_durability": false
+}

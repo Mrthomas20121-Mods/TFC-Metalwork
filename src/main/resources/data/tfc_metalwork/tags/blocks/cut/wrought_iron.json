@@ -1,6 +1,7 @@
 {
   "replace": false,
   "values": [
-    "tfc_metalwork:metal/cut/wrought_iron"
+    "tfc_metalwork:metal/cut/wrought_iron",
+    "tfc_metalwork:metal/oxidized_cut/wrought_iron"
   ]
 }

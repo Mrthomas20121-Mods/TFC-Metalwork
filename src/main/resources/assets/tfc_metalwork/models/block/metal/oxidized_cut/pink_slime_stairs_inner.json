@@ -1,0 +1,8 @@
+{
+  "parent": "block/inner_stairs",
+  "textures": {
+    "bottom": "tfc_metalwork:block/metal/oxidized_cut/pink_slime",
+    "top": "tfc_metalwork:block/metal/oxidized_cut/pink_slime",
+    "side": "tfc_metalwork:block/metal/oxidized_cut/pink_slime"
+  }
+}

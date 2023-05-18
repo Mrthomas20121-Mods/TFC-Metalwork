@@ -1,0 +1,12 @@
+{
+  "type": "tfc:heating",
+  "ingredient": {
+    "tag": "forge:storage_blocks/red_steel"
+  },
+  "result_fluid": {
+    "fluid": "tfc:metal/red_steel",
+    "amount": 400
+  },
+  "temperature": 1540,
+  "use_durability": false
+}

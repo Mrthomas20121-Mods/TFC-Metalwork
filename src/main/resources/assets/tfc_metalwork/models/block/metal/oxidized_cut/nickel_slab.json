@@ -1,0 +1,8 @@
+{
+  "parent": "block/slab",
+  "textures": {
+    "bottom": "tfc_metalwork:block/metal/oxidized_cut/nickel",
+    "top": "tfc_metalwork:block/metal/oxidized_cut/nickel",
+    "side": "tfc_metalwork:block/metal/oxidized_cut/nickel"
+  }
+}

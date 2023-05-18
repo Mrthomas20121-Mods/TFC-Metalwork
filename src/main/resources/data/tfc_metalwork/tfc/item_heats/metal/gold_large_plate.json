@@ -2,7 +2,7 @@
   "ingredient": {
     "tag": "forge:large_plates/gold"
   },
-  "heat_capacity": 6.667,
+  "heat_capacity": 3.333,
   "forging_temperature": 636,
-  "woelding_temperature": 848
+  "welding_temperature": 848
 }

@@ -1,6 +1,7 @@
 {
   "replace": false,
   "values": [
-    "tfc_metalwork:metal/block/uranium"
+    "tfc_metalwork:metal/block/uranium",
+    "tfc_metalwork:metal/oxidized/uranium"
   ]
 }

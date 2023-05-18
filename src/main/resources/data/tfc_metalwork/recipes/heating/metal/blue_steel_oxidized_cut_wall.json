@@ -1,0 +1,12 @@
+{
+  "type": "tfc:heating",
+  "ingredient": {
+    "item": "tfc_metalwork/metal/oxidized_cut/blue_steel_wall"
+  },
+  "result_fluid": {
+    "fluid": "tfc:metal/blue_steel",
+    "amount": 400
+  },
+  "temperature": 1540,
+  "use_durability": false
+}

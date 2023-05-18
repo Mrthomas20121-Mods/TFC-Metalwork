@@ -1,0 +1,8 @@
+{
+  "ingredient": {
+    "item": "tfc_metalwork:tfc_metalwork/metal/oxidized_cut/tungsten_steel_wall"
+  },
+  "heat_capacity": 20,
+  "forging_temperature": 2214,
+  "welding_temperature": 2952
+}

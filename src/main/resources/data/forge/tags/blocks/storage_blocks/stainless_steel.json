@@ -1,6 +1,7 @@
 {
   "replace": false,
   "values": [
-    "tfc_metalwork:metal/block/stainless_steel"
+    "tfc_metalwork:metal/block/stainless_steel",
+    "tfc_metalwork:metal/oxidized/stainless_steel"
   ]
 }

@@ -1,10 +1,13 @@
 package tfc_metalwork.util;
 
+import net.dries007.tfc.common.blockentities.TFCBlockEntities;
+import net.dries007.tfc.common.blocks.ExtendedProperties;
 import net.minecraft.world.level.block.Block;
 import net.minecraft.world.level.block.LadderBlock;
 import net.minecraft.world.level.block.SoundType;
 import net.minecraft.world.level.block.state.BlockBehaviour;
 import net.minecraft.world.level.material.Material;
+import tfc_metalwork.common.blocks.MetalBlock;
 
 import java.util.function.Supplier;
 
@@ -68,8 +71,10 @@ public enum Metal {
     STAINLESS_STEEL;
 
     public enum BlockType {
-        BLOCK(true, () -> new Block(BlockBehaviour.Properties.of(Material.METAL).strength(0.4f))),
-        CUT(true, () -> new Block(BlockBehaviour.Properties.of(Material.METAL).strength(0.4f))),
+        BLOCK(true),
+        CUT(true),
+        OXIDIZED(true, () -> new Block(BlockBehaviour.Properties.of(Material.METAL).strength(0.4f))),
+        OXIDIZED_CUT(true, () -> new Block(BlockBehaviour.Properties.of(Material.METAL).strength(0.4f))),
         LADDER(false, () -> new LadderBlock(BlockBehaviour.Properties.of(Material.DECORATION).strength(0.4F).sound(SoundType.LADDER).noOcclusion()));
 
         private final Supplier<Block> blockSupplier;
@@ -80,12 +85,20 @@ public enum Metal {
             this.full = full;
         }
 
+        BlockType(boolean full) {
+            this(full, null);
+        }
+
         public boolean isFull() {
             return this.full;
         }
 
         public Supplier<Block> create() {
             return this.blockSupplier;
+        }
+
+        public Supplier<Block> createBlock(Metal metal, BlockType type) {
+            return () -> new MetalBlock(ExtendedProperties.of(Material.METAL).randomTicks().strength(0.4f).blockEntity(TFCBlockEntities.TICK_COUNTER), metal, type);
         }
     }
 

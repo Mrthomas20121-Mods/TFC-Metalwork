@@ -1,6 +1,7 @@
 {
   "replace": false,
   "values": [
-    "tfc_metalwork:metal/block/copper"
+    "tfc_metalwork:metal/block/copper",
+    "tfc_metalwork:metal/oxidized/copper"
   ]
 }

@@ -1,0 +1,8 @@
+{
+  "parent": "block/stairs",
+  "textures": {
+    "bottom": "tfc_metalwork:block/metal/oxidized_cut/blutonium",
+    "top": "tfc_metalwork:block/metal/oxidized_cut/blutonium",
+    "side": "tfc_metalwork:block/metal/oxidized_cut/blutonium"
+  }
+}

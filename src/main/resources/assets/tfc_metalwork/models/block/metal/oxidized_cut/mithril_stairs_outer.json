@@ -1,0 +1,8 @@
+{
+  "parent": "block/outer_stairs",
+  "textures": {
+    "bottom": "tfc_metalwork:block/metal/oxidized_cut/mithril",
+    "top": "tfc_metalwork:block/metal/oxidized_cut/mithril",
+    "side": "tfc_metalwork:block/metal/oxidized_cut/mithril"
+  }
+}

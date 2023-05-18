@@ -5,7 +5,7 @@
   },
   "result_fluid": {
     "fluid": "tfc_metallum:metal/solder",
-    "amount": 200
+    "amount": 100
   },
   "temperature": 400,
   "use_durability": false

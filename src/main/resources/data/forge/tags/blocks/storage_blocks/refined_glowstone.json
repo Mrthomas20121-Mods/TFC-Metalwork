@@ -1,6 +1,7 @@
 {
   "replace": false,
   "values": [
-    "tfc_metalwork:metal/block/refined_glowstone"
+    "tfc_metalwork:metal/block/refined_glowstone",
+    "tfc_metalwork:metal/oxidized/refined_glowstone"
   ]
 }

@@ -1,0 +1,12 @@
+{
+  "type": "tfc:heating",
+  "ingredient": {
+    "tag": "forge:storage_blocks/thorium"
+  },
+  "result_fluid": {
+    "fluid": "tfc_metallum:metal/thorium",
+    "amount": 400
+  },
+  "temperature": 1750,
+  "use_durability": false
+}

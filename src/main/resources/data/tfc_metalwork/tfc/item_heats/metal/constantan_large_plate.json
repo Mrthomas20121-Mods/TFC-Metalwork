@@ -2,7 +2,7 @@
   "ingredient": {
     "tag": "forge:large_plates/constantan"
   },
-  "heat_capacity": 8,
+  "heat_capacity": 4,
   "forging_temperature": 720,
-  "woelding_temperature": 960
+  "welding_temperature": 960
 }

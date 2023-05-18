@@ -1,0 +1,8 @@
+{
+  "parent": "block/inner_stairs",
+  "textures": {
+    "bottom": "tfc_metalwork:block/metal/oxidized/gold",
+    "top": "tfc_metalwork:block/metal/oxidized/gold",
+    "side": "tfc_metalwork:block/metal/oxidized/gold"
+  }
+}

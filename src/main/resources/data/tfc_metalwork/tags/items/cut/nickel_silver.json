@@ -1,6 +1,7 @@
 {
   "replace": false,
   "values": [
-    "tfc_metalwork:metal/cut/nickel_silver"
+    "tfc_metalwork:metal/cut/nickel_silver",
+    "tfc_metalwork:metal/oxidized_cut/nickel_silver"
   ]
 }

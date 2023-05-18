@@ -1,0 +1,12 @@
+{
+  "type": "tfc:heating",
+  "ingredient": {
+    "tag": "forge:storage_blocks/uranium"
+  },
+  "result_fluid": {
+    "fluid": "tfc_metallum:metal/uranium",
+    "amount": 400
+  },
+  "temperature": 1100,
+  "use_durability": false
+}

@@ -1,6 +1,7 @@
 {
   "replace": false,
   "values": [
-    "tfc_metalwork:metal/block/andesite_alloy"
+    "tfc_metalwork:metal/block/andesite_alloy",
+    "tfc_metalwork:metal/oxidized/andesite_alloy"
   ]
 }

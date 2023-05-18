@@ -1,0 +1,8 @@
+{
+  "ingredient": {
+    "item": "tfc_metalwork:tfc_metalwork/metal/oxidized/electrum_slab"
+  },
+  "heat_capacity": 8,
+  "forging_temperature": 720,
+  "welding_temperature": 960
+}

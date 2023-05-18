@@ -1,0 +1,8 @@
+{
+  "ingredient": {
+    "item": "tfc_metalwork:tfc_metalwork/metal/oxidized/signalum_slab"
+  },
+  "heat_capacity": 11.429,
+  "forging_temperature": 900,
+  "welding_temperature": 1200
+}

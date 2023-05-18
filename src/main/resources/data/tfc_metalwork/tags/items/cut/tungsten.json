@@ -1,6 +1,7 @@
 {
   "replace": false,
   "values": [
-    "tfc_metalwork:metal/cut/tungsten"
+    "tfc_metalwork:metal/cut/tungsten",
+    "tfc_metalwork:metal/oxidized_cut/tungsten"
   ]
 }

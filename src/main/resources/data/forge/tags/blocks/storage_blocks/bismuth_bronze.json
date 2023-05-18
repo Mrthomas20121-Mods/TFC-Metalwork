@@ -1,6 +1,7 @@
 {
   "replace": false,
   "values": [
-    "tfc_metalwork:metal/block/bismuth_bronze"
+    "tfc_metalwork:metal/block/bismuth_bronze",
+    "tfc_metalwork:metal/oxidized/bismuth_bronze"
   ]
 }
