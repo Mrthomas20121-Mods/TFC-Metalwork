@@ -18,6 +18,7 @@ import net.minecraftforge.registries.ForgeRegistries;
 import net.minecraftforge.registries.RegistryObject;
 import tfc_metalwork.TFCMetalwork;
 import tfc_metalwork.common.MetalworkItemGroup;
+import tfc_metalwork.common.blocks.entities.TFCMetalworkBlockEntities;
 import tfc_metalwork.util.Metal;
 import tfc_metalwork.common.items.MetallumItems;
 
@@ -46,9 +47,9 @@ public class MetalworkBlocks {
         }
         else {
             return new DecorationBlockRegistryObj(
-                    register(String.format("metal/%s/%s_slab", blockType.name().toLowerCase(), metal.name()), () -> new MetalSlab(ExtendedProperties.of(Material.METAL).strength(2f), metal, blockType), MetalworkItemGroup.METAL),
-                    register(String.format("metal/%s/%s_stairs", blockType.name().toLowerCase(), metal.name()), () -> new MetalStairs(() -> METALS.get(metal).get(blockType).get().defaultBlockState(), ExtendedProperties.of(Material.METAL).strength(2f), metal, blockType), MetalworkItemGroup.METAL),
-                    register(String.format("metal/%s/%s_wall", blockType.name().toLowerCase(), metal.name()), () -> new MetalWalls(ExtendedProperties.of(Material.METAL).strength(2f), metal, blockType), MetalworkItemGroup.METAL)
+                    register(String.format("metal/%s/%s_slab", blockType.name().toLowerCase(), metal.name()), () -> new MetalSlab(ExtendedProperties.of(Material.METAL).blockEntity(TFCMetalworkBlockEntities.TICK_COUNTER).strength(2f), metal, blockType), MetalworkItemGroup.METAL),
+                    register(String.format("metal/%s/%s_stairs", blockType.name().toLowerCase(), metal.name()), () -> new MetalStairs(() -> METALS.get(metal).get(blockType).get().defaultBlockState(), ExtendedProperties.of(Material.METAL).blockEntity(TFCMetalworkBlockEntities.TICK_COUNTER).strength(2f), metal, blockType), MetalworkItemGroup.METAL),
+                    register(String.format("metal/%s/%s_wall", blockType.name().toLowerCase(), metal.name()), () -> new MetalWalls(ExtendedProperties.of(Material.METAL).strength(2f).blockEntity(TFCMetalworkBlockEntities.TICK_COUNTER), metal, blockType), MetalworkItemGroup.METAL)
             );
         }
     }));

@@ -8,6 +8,7 @@ import net.minecraft.world.level.block.SoundType;
 import net.minecraft.world.level.block.state.BlockBehaviour;
 import net.minecraft.world.level.material.Material;
 import tfc_metalwork.common.blocks.MetalBlock;
+import tfc_metalwork.common.blocks.entities.TFCMetalworkBlockEntities;
 
 import java.util.function.Supplier;
 
@@ -98,7 +99,7 @@ public enum Metal {
         }
 
         public Supplier<Block> createBlock(Metal metal, BlockType type) {
-            return () -> new MetalBlock(ExtendedProperties.of(Material.METAL).randomTicks().strength(0.4f).blockEntity(TFCBlockEntities.TICK_COUNTER), metal, type);
+            return () -> new MetalBlock(ExtendedProperties.of(Material.METAL).randomTicks().strength(0.4f).blockEntity(TFCMetalworkBlockEntities.TICK_COUNTER), metal, type);
         }
     }
 
