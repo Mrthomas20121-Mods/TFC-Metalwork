@@ -3,6 +3,6 @@
     "tag": "forge:large_rods/boron"
   },
   "heat_capacity": 5,
-  "forging_temperature": 1242,
-  "welding_temperature": 1656
+  "forging_temperature": 921,
+  "welding_temperature": 1228
 }

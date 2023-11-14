@@ -3,6 +3,6 @@
     "tag": "forge:storage_blocks/tungsten_steel"
   },
   "heat_capacity": 20,
-  "forging_temperature": 2214,
-  "welding_temperature": 2952
+  "forging_temperature": 921,
+  "welding_temperature": 1228
 }
