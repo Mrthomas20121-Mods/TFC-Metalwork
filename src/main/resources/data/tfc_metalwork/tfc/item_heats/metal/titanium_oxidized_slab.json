@@ -1,6 +1,6 @@
 {
   "ingredient": {
-    "item": "tfc_metalwork:tfc_metalwork/metal/oxidized/titanium_slab"
+    "item": "tfc_metalwork:/metal/oxidized/titanium_slab"
   },
   "heat_capacity": 13.333,
   "forging_temperature": 921,

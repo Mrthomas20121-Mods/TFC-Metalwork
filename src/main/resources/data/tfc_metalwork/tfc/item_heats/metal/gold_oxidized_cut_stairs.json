@@ -1,6 +1,6 @@
 {
   "ingredient": {
-    "item": "tfc_metalwork:tfc_metalwork/metal/oxidized_cut/gold_stairs"
+    "item": "tfc_metalwork:/metal/oxidized_cut/gold_stairs"
   },
   "heat_capacity": 6.667,
   "forging_temperature": 636,

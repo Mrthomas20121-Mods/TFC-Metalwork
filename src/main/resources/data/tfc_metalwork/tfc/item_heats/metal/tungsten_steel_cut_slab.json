@@ -1,6 +1,6 @@
 {
   "ingredient": {
-    "item": "tfc_metalwork:tfc_metalwork/metal/cut/tungsten_steel_slab"
+    "item": "tfc_metalwork:/metal/cut/tungsten_steel_slab"
   },
   "heat_capacity": 20,
   "forging_temperature": 921,

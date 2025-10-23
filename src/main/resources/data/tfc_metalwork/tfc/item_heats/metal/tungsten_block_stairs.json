@@ -1,6 +1,6 @@
 {
   "ingredient": {
-    "item": "tfc_metalwork:tfc_metalwork/metal/block/tungsten_stairs"
+    "item": "tfc_metalwork:/metal/block/tungsten_stairs"
   },
   "heat_capacity": 20,
   "forging_temperature": 921,

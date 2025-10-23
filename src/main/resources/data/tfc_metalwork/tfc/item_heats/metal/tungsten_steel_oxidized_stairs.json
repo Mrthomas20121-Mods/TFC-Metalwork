@@ -1,6 +1,6 @@
 {
   "ingredient": {
-    "item": "tfc_metalwork:tfc_metalwork/metal/oxidized/tungsten_steel_stairs"
+    "item": "tfc_metalwork:/metal/oxidized/tungsten_steel_stairs"
   },
   "heat_capacity": 20,
   "forging_temperature": 921,

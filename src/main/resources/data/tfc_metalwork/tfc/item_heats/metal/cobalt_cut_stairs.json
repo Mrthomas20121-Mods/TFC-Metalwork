@@ -1,6 +1,6 @@
 {
   "ingredient": {
-    "item": "tfc_metalwork:tfc_metalwork/metal/cut/cobalt_stairs"
+    "item": "tfc_metalwork:/metal/cut/cobalt_stairs"
   },
   "heat_capacity": 16,
   "forging_temperature": 900,

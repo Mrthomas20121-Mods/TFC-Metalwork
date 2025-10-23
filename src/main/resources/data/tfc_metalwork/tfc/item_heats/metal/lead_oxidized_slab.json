@@ -1,6 +1,6 @@
 {
   "ingredient": {
-    "item": "tfc_metalwork:tfc_metalwork/metal/oxidized/lead_slab"
+    "item": "tfc_metalwork:/metal/oxidized/lead_slab"
   },
   "heat_capacity": 18.182,
   "forging_temperature": 197,

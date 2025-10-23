@@ -1,6 +1,6 @@
 {
   "ingredient": {
-    "item": "tfc_metalwork:tfc_metalwork/metal/oxidized/constantan_stairs"
+    "item": "tfc_metalwork:/metal/oxidized/constantan_stairs"
   },
   "heat_capacity": 8,
   "forging_temperature": 720,

@@ -1,6 +1,6 @@
 {
   "ingredient": {
-    "item": "tfc_metalwork:tfc_metalwork/metal/oxidized/gold_wall"
+    "item": "tfc_metalwork:/metal/oxidized/gold_wall"
   },
   "heat_capacity": 6.667,
   "forging_temperature": 636,

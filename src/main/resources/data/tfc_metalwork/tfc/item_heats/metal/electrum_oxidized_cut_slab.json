@@ -1,6 +1,6 @@
 {
   "ingredient": {
-    "item": "tfc_metalwork:tfc_metalwork/metal/oxidized_cut/electrum_slab"
+    "item": "tfc_metalwork:/metal/oxidized_cut/electrum_slab"
   },
   "heat_capacity": 8,
   "forging_temperature": 720,

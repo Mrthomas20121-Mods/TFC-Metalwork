@@ -1,6 +1,6 @@
 {
   "ingredient": {
-    "item": "tfc_metalwork:tfc_metalwork/metal/oxidized/nickel_stairs"
+    "item": "tfc_metalwork:/metal/oxidized/nickel_stairs"
   },
   "heat_capacity": 8.333,
   "forging_temperature": 872,

@@ -1,6 +1,6 @@
 {
   "ingredient": {
-    "item": "tfc_metalwork:tfc_metalwork/metal/cut/electrum_stairs"
+    "item": "tfc_metalwork:/metal/cut/electrum_stairs"
   },
   "heat_capacity": 8,
   "forging_temperature": 720,

@@ -1,6 +1,6 @@
 {
   "ingredient": {
-    "item": "tfc_metalwork:tfc_metalwork/metal/oxidized/cobalt_wall"
+    "item": "tfc_metalwork:/metal/oxidized/cobalt_wall"
   },
   "heat_capacity": 16,
   "forging_temperature": 900,

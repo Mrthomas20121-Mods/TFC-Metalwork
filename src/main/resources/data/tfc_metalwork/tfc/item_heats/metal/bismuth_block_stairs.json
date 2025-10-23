@@ -1,6 +1,6 @@
 {
   "ingredient": {
-    "item": "tfc_metalwork:tfc_metalwork/metal/block/bismuth_stairs"
+    "item": "tfc_metalwork:/metal/block/bismuth_stairs"
   },
   "heat_capacity": 28.571,
   "forging_temperature": 162,

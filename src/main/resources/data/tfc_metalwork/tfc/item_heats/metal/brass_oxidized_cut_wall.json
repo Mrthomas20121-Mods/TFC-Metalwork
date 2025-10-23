@@ -1,6 +1,6 @@
 {
   "ingredient": {
-    "item": "tfc_metalwork:tfc_metalwork/metal/oxidized_cut/brass_wall"
+    "item": "tfc_metalwork:/metal/oxidized_cut/brass_wall"
   },
   "heat_capacity": 11.429,
   "forging_temperature": 558,
